@@ -5,7 +5,7 @@ image: /images/shields/knight.png
 ## Dracano
 
 {% location
- name=""
+ name="Dracano"
  src="/images/locations/dracano.png"
  description="This volcano is said to have long ago given life to the entire island in a massive eruption. For this reason the tribes have long worshipped the Dracano, bringing offerings of peppered cheese to a fearsome winged mouse they believe to be a deity."
 /%}

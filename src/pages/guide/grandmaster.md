@@ -6,7 +6,7 @@ image: /images/shields/grandmaster.png
 ## Training Grounds
 
 {% location
- name=""
+ name="Training Grounds"
  src="/images/locations/training-grounds.png"
  description="A place of study, the students that train along the northern shore of the Burroughs River are indeed a worthy foe. Hunters who prove themselves as formidable opponents may earn the right to challenge the students' teachers."
 /%}
@@ -22,7 +22,7 @@ Claim the adventure **Take an Archery Lesson** at the Training Grounds once you 
 ## Bazaar
 
 {% location
- name=""
+ name="Bazaar"
  src="/images/locations/bazaar.png"
  description="The organizers of the Bazaar used to travel abroad with a merchant companion named Ronza. During their visit to the Burroughs region, these quirky folk felt right at home, so much so that they decided to stay! Their newly constructed shops are now known across the Kingdom for their strange inventory."
 /%}
@@ -38,7 +38,7 @@ Travel to Dojo once you have purchased the map piece.
 ## Dojo
 
 {% location
- name=""
+ name="Dojo"
  src="/images/locations/dojo.png"
  description="The ground floor of the Furoma Pagoda is where students most frequently train. Be cautious of your trap setup when hunting here as students are resistant to basic attacks."
 /%}
@@ -62,7 +62,7 @@ Travel to Meditation Room once you have at least 6 of each token.
 ## Meditation Room
 
 {% location
- name=""
+ name="Meditation Room"
  src="/images/locations/meditation-room.png"
  description="The second floor of the Pagoda is where the Masters of the three cheese schools meditate and study. These Masters are far too wise to go for conventional bait. Instead, a hunter will need to craft very specific bait in order to attract each master."
 /%}
@@ -88,7 +88,7 @@ Mousoleum and Laboratory are very helpful if you need more gold.
 ## Pinnacle Chamber
 
 {% location
- name=""
+ name="Pinnacle Chamber"
  src="/images/locations/pinnacle-chamber.png"
  description="The stairs that lead to the third and final floor of the Pagoda are behind a thick, opulent set of double doors and are extremely well guarded. The grand chamber of this floor is where the Masters of the Dojo reside, occasionally seen peering over the landscape they wish to enslave. Any hunter wishing to challenge these powerful mice will require an unstable and rare cheese."
 /%}
@@ -115,7 +115,7 @@ Travel to Lagoon once you get at least 50 Gnarled Cheese.
 ## Lagoon
 
 {% location
- name=""
+ name="Lagoon"
  src="/images/locations/lagoon.png"
  description="The enticing blue water hypnotizes hunters, distracting them from the dangerous mice that take up residence nearby. The terrain that surrounds the Lagoon is extremely unsteady, comprised of jagged rocks and slick moss. High up in the trees that surround the Lagoon are the nests of Harpy mice who act as a plague to all hunters, stealing their cheese, gold and crippling their courage. Some mice here are not attracted to conventional bait. It is highly recommended that a hunter use Gnarled cheese when hunting at the Lagoon."
 /%}
@@ -132,15 +132,14 @@ Loot 18 Scrap Metal from
 - Hydra Mouse
 - Goblin Mouse
 
-
 {% callout title="How to access the Town of Digby" %}
 
 - Loot Living Shards from Mousevina von Vermin in Mousoleum. You may have alread gotten them from your first visit to Mousoleum.
 - Craft 3 Limelight Cheese.
 - Hunt the Mutated Mole Mice in Laboratory
 - Loot the **Key to the Town of Digby** map piece from the Mutated Mole Mice.
-{% /callout %}
 
+{% /callout %}
 
 You need  at least 650,000 gold to craft the ship. You can get it from Mousoleum and Laboratory.
 

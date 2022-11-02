@@ -6,7 +6,7 @@ image: /images/shields/legendary.png
 ## S.S. Huntington IV
 
 {% location
- name=""
+ name="S.S. Huntington IV"
  src="/images/locations/ss-huntington.png"
  description="This fine vessel has been granted permission by the King to sail the open ocean east of Gnawnia, and has been upgraded with hundreds of thousands of interlocking hull fragments, allowing it to breach even the dangerous Iceberg with ease."
 /%}
@@ -28,7 +28,7 @@ Claim the adventure Navigate the Rodentia Ocean once you have crafted Ocean Navi
 ## Cape Clawed
 
 {% location
- name=""
+ name="Cape Clawed"
  src="/images/locations/cape-clawed.png"
  description="This small island was once attached to the mainland before a mighty storm washed away a massive piece of land. Members of the three tribes were then trapped where they were forced to work together to build a means of travel back to the mainland. Cape Clawed now acts as a meeting place where the elders of the tribes discuss diplomatic matters."
 /%}
@@ -61,7 +61,7 @@ Loot 1 Ancient Spear from Elder Mouse with Shell Cheese in Cape Clawed. It’s n
 ## Nerg Plains
 
 {% location
- name=""
+ name="Nerg Plains"
  src="/images/locations/nerg-plains.png"
  description="The Nerg Tribe use the tall grass for camouflage and the sturdy trees as defensive positions making their village hard to infiltrate. Use of a Tactical trap is highly recommended when hunting for the Nerg."
 /%}
@@ -75,7 +75,7 @@ Use the new Horrific Venus Mouse Trap in Nerg Plains to farm gold and Yellow Pep
 ## Derr Dunes
 
 {% location
- name=""
+ name="Derr Dunes"
  src="/images/locations/derr-dunes.png"
  description="The dunes are a harsh, barren wasteland where only the toughest of mice can survive. The Derr Tribe take advantage of their ability to survive and navigate in such a dangerous terrain as a defensive strength which allows them to maximize their offensive abilities. Use of a Physical trap is highly recommended when hunting for the Derr."
 /%}
@@ -89,7 +89,7 @@ Use the new RhinoBot Trap in Derr Dunes to farm gold and Red Pepper Seeds.
 ## Elub Shore
 
 {% location
- name=""
+ name="Elub Shore"
  src="/images/locations/elub-shore.png"
  description="The shores of the great Tribal Island is where the Elub Tribe call home. The Elub utilize the resources of the ocean to build tools and shelter. Use of a Hydro trap is highly recommended while hunting for the Elub."
 /%}

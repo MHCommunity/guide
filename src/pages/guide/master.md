@@ -69,7 +69,7 @@ Travel to Calm Clearing once you have at least 300,000 gold.
 ## Calm Clearing
 
 {% location
- name=""
+ name="Calm Clearing"
  src="/images/locations/calm-clearing.png"
  description="Tucked behind the dense trees of Whisker Woods is a quiet and peaceful clearing. In the center of the clearing is a glowing boulder with colourful fungi growing around it. The magic rock seems to draw mice near to it, as if empowering them."
 /%}
@@ -89,7 +89,7 @@ Travel to Great Gnarled Tree next.
 ## Great Gnarled Tree
 
 {% location
- name=""
+ name="Great Gnarled Tree"
  src="/images/locations/great-gnarled-tree.png"
  description="At the edge of Whisker Woods lies a tree older than Gnawnia itself. Its magic roots stretch far underground and deep into the woods, giving life to the other trees. The shadow it casts is so massive that it began to affect the surrounding area through time, blocking necessary light from other trees. As a result, the other trees seem almost alive as they bend back and forth, seeking out the light."
 /%}

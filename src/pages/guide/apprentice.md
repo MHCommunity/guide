@@ -6,7 +6,7 @@ image: /images/shields/apprentice.png
 ## Windmill
 
 {% location
- name=""
+ name="Windmill"
  src="/images/locations/windmill.png"
  description="This windmill, and the farm beside it, used to belong to one of Gnawnia's most prosperous farmers before the mice took it over. Windmill mice enjoy the simple life down on the farm, but don't be fooled by their relaxed attitude-- they're laid-back about everything but cheese."
 /%}

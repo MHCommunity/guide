@@ -6,7 +6,7 @@ image: /images/shields/lord-lady.png
 ## Seasonal Garden
 
 {% location
- name=""
+ name="Seasonal Garden"
  src="/images/locations/seasonal-garden.png"
  description="Zugzwang's Seasonal Garden is the perfect destination for those who can't make up their mind about the weather. Every few days, the seasons shift, bringing with them a new crop of mice with different powers. Keep an eye out for the shards of an old key- they might provide the way into that mysterious locked tower."
 /%}
@@ -78,7 +78,7 @@ Travel to Zugzwang’s Tower once you have Zugzwang's Tower Key and the Pinchers
 ## Zugzwang's Tower
 
 {% location
- name=""
+ name="Zugzwang's Tower"
  src="/images/locations/zugzwangs-tower.png"
  description="An ordered chaos consumes this enchanted tower as the technological chess mice do battle with their mystical counterparts, all under the auspices of a dark game master who hides in the shadows. Conquer both Kings to find what lurks beyond the chess board, but beware: this is a place of powerful magics, where things are not always what they seem."
 /%}
@@ -127,7 +127,7 @@ Claim the adventure Capture the Mystic and Technic Kings and now you have unlock
 ## Slushy Shoreline
 
 {% location
- name=""
+ name="Slushy Shoreline"
  src="/images/locations/slushy-shoreline.png"
  description="In recent days, huge chunks of ice have washed ashore the beaches of Gnawnia. Worse, dangerous mice have floated ashore alongside and are attacking the walls of Gnawnia! Head to the beaches and stop the invasion! You must be the rank of Lord/Lady to travel to this dangerous area."
 /%}
@@ -150,7 +150,7 @@ Head over to Iceberg once you have the Steam Laser MK. I.
 ## Iceberg
 
 {% location
- name=""
+ name="Iceberg"
  src="/images/locations/iceberg.png"
  description="Iceberg, dead ahead! Teeming with mice, and on a collision course with the beaches directly outside Gnawnia's castle, this Iceberg must be stopped at all costs! You must be the rank of Lord/Lady to travel to this dangerous area."
 /%}
@@ -225,7 +225,7 @@ Second Run
 ## Claw Shot City
 
 {% location
- name=""
+ name="Claw Shot City"
  src="/images/locations/claw-shot-city.png"
  description="It was a dry and dusty day in Gnawnia when the Old West rolled into town... And with it came some of the meanest, nastiest creatures you ever did saw. The local Marshall needs MouseHunters to help bring the Law back to this valley. Will you help track down the lawless Wild Bunch gangs?"
 /%}

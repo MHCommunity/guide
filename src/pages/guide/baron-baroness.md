@@ -6,7 +6,7 @@ image: /images/shields/baron-baroness.png
 ## Fort Rox
 
 {% location
- name=""
+ name="Fort Rox"
  src="/images/locations/fort-rox.png"
  description="A strange meteor has landed near Claw Shot City, leaving a huge impact crater near the Gnawnian Express rails! This mysterious meteor brings with it a mysterious new breed of mice and their presence threatens the lives of the citizens of Varmint Valley. Around the crater, an encampment of hunters has surrounded these dangerous mice and are setting up a fort to hold them back!"
 /%}
@@ -94,7 +94,7 @@ Travel to Fiery Warpath once you are done with Fort Rox.
 ## Fiery Warpath
 
 {% location
- name=""
+ name="Fiery Warpath"
  src="/images/locations/fiery-warpath.png"
  description="The Marching Flame has attacked and pillaged much of the Sandtail Desert and now their warpath is headed towards Gnawnia! Their battalions attack in waves and seem to endlessly march over the horizon. All that stands between them and conquering Gnawnia are the brave hunters who camp here."
 /%}
@@ -188,11 +188,10 @@ Advice on what to do with your first loot from Warmonger:
 
 Travel to Muridae Market after catching Warmonger Mouse.
 
-
 ## Muridae Market
 
 {% location
- name=""
+ name="Muridae Market"
  src="/images/locations/muridae-market.png"
  description="This fortified market has been ravaged by the relentless attacks of the Marching Flame. Local merchants are eagerly seeking the help of hunters to find construction materials and help rebuild their shops."
 /%}
@@ -234,7 +233,7 @@ Once you have gotten all the Map Pieces, head over to Living Garden to embark on
 ## Living Garden
 
 {% location
- name=""
+ name="Living Garden"
  src="/images/locations/living-garden.png"
  description="The mice that live in this garden use the environment to their advantage, fashioning crude armour and weapons from plantlife in order to protect and hoard all the Garden Essences they can find."
 /%}

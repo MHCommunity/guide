@@ -6,7 +6,7 @@ image: /images/shields/count-countess.png
 ## Queso River
 
 {% location
- name=""
+ name="Queso River"
  src="/images/locations/queso-river.png"
  description="A free-flowing river of Bland Queso with an unknown origin. Being located deep within a canyon has kept it safe and hidden for quite sometime. Pumps established here can pump the Bland Queso straight from the river."
 /%}
@@ -191,7 +191,7 @@ Head onto Gnawnia Rift, if you have not completed the adventure. If you complete
 ## Gnawnia Rift
 
 {% location
- name=""
+ name="Gnawnia Rift"
  src="/images/locations/gnawnia-rift.png"
  description="Within the depths of the unknown, creeping among the mists of mystery, the Gnawnia Rift is haunted by the most menacing, terrifyingly thought-bending, and maniacally mind-warping mice one could imagine... What will you find beyond the tear is vast and unknown. Brace yourselves for a challenge of great proportions!"
 /%}
@@ -217,7 +217,7 @@ Claim the adventure Capture the Goliath Field Mouse. Head onto the Queso Region,
 ## Sunken City
 
 {% location
- name=""
+ name="Sunken City"
  src="/images/locations/sunken-city.png"
  description="Dive into the depths of the Rodentia Ocean and explore this ancient underwater city! Great treasures await adventurous hunters who journey into the deep waters!"
 /%}

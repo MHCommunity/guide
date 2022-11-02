@@ -5,7 +5,7 @@ title: Journeyman / Journeywoman
 ## Mountain
 
 {% location
- name=""
+ name="Mountain"
  src="/images/locations/mountain.png"
  description="This treacherous environment only allows the toughest of mice to survive. Be warned: the Mountain is no place for the novice mouse hunter!"
 /%}

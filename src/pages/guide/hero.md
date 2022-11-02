@@ -4,7 +4,7 @@ title: Hero
 ## Jungle of Dread
 
 {% location
- name=""
+ name="Jungle of Dread"
  src="/images/locations/jungle-of-dread.png"
  description="Named by the tribes, this dangerous jungle is home to some of the most terrifying mice ever discovered. Long ago the leaders of the tribes discovered a spicy cheese made with peppers capable of distracting the mighty beasts of the jungle. This peppered bait may be the key to luring these mice to a trap..."
 /%}
@@ -60,7 +60,7 @@ You now have all the required weapons to complete King’s Gauntlet. However, it
 ## Catacombs
 
 {% location
- name=""
+ name="Catacombs"
  src="/images/locations/catacombs.png"
  description="Deep below the cursed soil of the Mousoleum are underground caverns that stretch to the west where long-forgotten mice roam. These powerful mice are highly resistant to most types of damage and apparently have a weakness for Radioactive Blue cheese. The creatures of the Catacombs seem strangely organized, as if they are preparing for something. Who knows what sinister secrets a hunter may uncover here...?"
 /%}
@@ -94,7 +94,7 @@ Travel to the Forbidden Grove after you have ACRONYM and at least 100 Ancient Ch
 ## Forbidden Grove
 
 {% location
- name=""
+ name="Forbidden Grove"
  src="/images/locations/forbidden-grove.png"
  description="At the end of the Catacombs, beyond heavy stone gates, lies a hidden hunting ground. Etched into the gates is a warning: 'Beware young soul, should the stone gates close while within this grove, you will find yourself caught between realms.'"
 /%}
@@ -113,7 +113,7 @@ Once you have enough Runic Cheese, you will want to wait for Realm Ripper Mouse.
 ## Acolyte Realm
 
 {% location
- name=""
+ name="Acolyte Realm"
  src="/images/locations/acolyte-realm.png"
  description="Years ago in Bristle Woods, a MouseHunter by the name of Plankrun opened a passageway to another realm. The passage was intended to act as an elaborate one-way trap for Acolyte mice. However, recently, the Acolyte mice have had success in reversing the portal's direction and are attempting to re-enter the Gnawnia Kingdom."
 /%}
