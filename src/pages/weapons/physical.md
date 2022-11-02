@@ -1,5 +1,6 @@
 ---
 title: Physical
+image: /images/power-types/physical.png
 ---
 
 Welcome to Physical the powertype of throwing hands.

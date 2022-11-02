@@ -1,6 +1,8 @@
 ---
 title: Hero
+image: /images/shields/hero.png
 ---
+
 ## Jungle of Dread
 
 {% location

@@ -1,5 +1,6 @@
 ---
 title: Hydro
+image: /images/power-types/hydro.png
 ---
 
 Welcome to Hydro, the powertype of Wet. If it walks like a fish, talks like a fish or looks like a fish, this is probably the powertype you will want to catch it with.

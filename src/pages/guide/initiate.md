@@ -1,6 +1,8 @@
 ---
 title: Initiate
+image: /images/shields/initiate.png
 ---
+
 ## Harbour
 
 {% location

@@ -1,8 +1,7 @@
 ---
 title: Forgotten
+image: /images/power-types/forgotten.png
 ---
-
-<mark>Disclaimer: </mark>
 
 Forgotten has a number of weapons that are very closely intertwined with one another. There are situations where a player conventionally would get a direct upgrade right after getting a weapon, by combining its parts with other items. Where this is applicable, this guide will only have an article under the name of the final weapon.
 

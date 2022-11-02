@@ -1,5 +1,6 @@
 ---
 title: Draconic
+image: /images/power-types/draconic.png
 ---
 
 **RAAAAAAAAAAAAAAAAAWR**

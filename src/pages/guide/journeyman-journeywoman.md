@@ -1,5 +1,6 @@
 ---
 title: Journeyman / Journeywoman
+image: /images/shields/journeyman-journeywoman.png
 ---
 
 ## Mountain

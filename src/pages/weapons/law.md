@@ -1,5 +1,6 @@
 ---
 title: Law
+image: /images/power-types/law.png
 ---
 
 Law, the powertype that one is.
