@@ -1,10 +1,9 @@
 ---
 title: MouseHunt Essentials Guide
 pageTitle: MouseHunt Essentials Guide
-description: A guide for MouseHunt for the early game and beyond.
+description: Become the best MouseHunter. Learn from the experts and start your journey off right. A MouseHunt guide for the early game and beyond.
 ---
-
-A guide for [MouseHunt](https://mousehuntgame.com) for the early game and beyond.
+A [MouseHunt](https://mousehuntgame.com) guide for the early game and beyond.
 
 {% quick-links %}
 {% quick-link title="MouseHunt" href="https://www.mousehuntgame.com" description="Play the game! (Hopefully you've done this part already)." /%}
