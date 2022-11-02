@@ -136,7 +136,7 @@ Small Eruption
 - You have 10 hunts to hit 35 kPa.
 - If you reached 35 kPa before the 10 hunts, you will enter Small Eruption immediately.
 - Eruption Stage (10 Hunts) Recommended Cheese - Medium (Preferred) or Mild Queso.
-  - Snipe options -  Spicekin, Sizzle Pup (Sizzel Mild) and Smoldersnap.
+  - Snipe options - Spicekin, Sizzle Pup (Sizzel Mild) and Smoldersnap.
 - Do NOT use a Magic Nest Dust (MND) here.
 - You will collect Congealed Rubber, you need it to start a Medium Eruption.
 - Repeat the cycle until you have collected 15 Congealed Rubber.
@@ -149,7 +149,7 @@ Medium Eruption
 - You have 25 hunts to hit 175 kPa.
 - If you reached 175 kPa before the 25 hunts, you will enter Medium Eruption immediately.
 - Eruption Stage (20 Hunts) Recommended Cheese - Hot (Preferred) or Medium Queso.
-  - Snipe options -  Bearded Elder, Smoldersnap, Ignatia (BE Trio) and Smoldersnap.
+  - Snipe options - Bearded Elder, Smoldersnap, Ignatia (BE Trio) and Smoldersnap.
 - Do NOT use a Magic Nest Dust (MND) here.
 - You will collect Geyserite, you need it to start a Large Eruption.
 - Repeat the cycle until you have collected 30 Geyserite.
@@ -175,7 +175,7 @@ Epic Eruption (Read further down first)
   - You have 100 hunts to hit 3000 kPa.
   - If you reached 3000 kPa before the 100 hunts, you will enter Epic Eruption immediately.
 - Eruption Stage (80 Hunts) Recommended Cheese - Wildfire (Preferred) or Flamin' Queso.
-  - Snipe options -  Kalor (with Wildfire) or Stormsurge & Bruticus (with Flamin').
+  - Snipe options - Kalor (with Wildfire) or Stormsurge & Bruticus (with Flamin').
 - Please use a Magic Nest Dust (MND) here.
 
 You would usually clear the entire Epic Eruption, however on your first run, leave the the area after you caught your first Kalor. Then claim the adventure Slay the Geyser Dragon. You will come back and finish the rest of the Epic Eruption when you have better traps in the future.

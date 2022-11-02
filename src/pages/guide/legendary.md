@@ -43,7 +43,7 @@ When you have 30 Savoury Vegetables, craft 15 Gumbo Cheese. The 20-piece recipe 
 
 A Physical weapon is required to catch most mice in Derr Dunes. Derr Dunes is by far the most difficult tribe but offers excellent gold in return. Be mentally prepared for pillages. Loot Delicious Stone using Digby DrillBot, Aqua Base and Gouda Cheese in Derr Dunes.
 
-Digby Drillbot| You can buy Digby Drillbot for 256,000 gold at Town of Digby.                          How to get to Town of Digby - You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
+Digby Drillbot| You can buy Digby Drillbot for 256,000 gold at Town of Digby. How to get to Town of Digby - You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
 
 King's Credit| You can buy some Crates of Delicious Stones in King’s Cart.
 

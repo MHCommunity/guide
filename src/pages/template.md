@@ -20,11 +20,9 @@ This is what a disclaimer message looks like. You might want to include inline `
 This is what a disclaimer message looks like. You might want to include inline `code` in it. Or maybe you’ll want to include a [link](/) in it. I don’t think we should get too carried away with other scenarios like lists or tables — that would be silly.
 {% /callout %}
 
-
 ### Coming soon
 
 {% comingSoon /%}
-
 
 ### Code blocks
 

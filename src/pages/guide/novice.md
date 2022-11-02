@@ -32,6 +32,6 @@ It is not required to like the [MouseHunt Facebook page](https://www.facebook.co
 
 ## What to do next
 
-Do *not* open the Gouda Lovers Charm Pack yet.
+Do _not_ open the Gouda Lovers Charm Pack yet.
 
 Travel to the Town of Gnawnia once you rank up to Recruit.

@@ -141,7 +141,7 @@ Loot 18 Scrap Metal from
 
 {% /callout %}
 
-You need  at least 650,000 gold to craft the ship. You can get it from Mousoleum and Laboratory.
+You need at least 650,000 gold to craft the ship. You can get it from Mousoleum and Laboratory.
 
 This is typically the first point that a player finds difficulty in meeting the gold target, so don't despair - you're not alone!
 

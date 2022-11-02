@@ -7,10 +7,10 @@ description: A guide for MouseHunt for the early game and beyond.
 A guide for [MouseHunt](https://mousehuntgame.com) for the early game and beyond.
 
 {% quick-links %}
- {% quick-link title="MouseHunt" href="https://www.mousehuntgame.com" description="Play the game! (Hopefully you've done this part already)." /%}
- {% quick-link title="mouse.rip" href="https://mouse.rip" description="A useful site containing guides, tools, and resources." /%}
- {% quick-link title="Join the MH Discord" href="https://discord.gg/mousehunt" description="Join the community and hang out." /%}
- {% quick-link title="Improve the Guide" href="https://github.com/MHCommunity/mhbasics" description="Help improve this guide by contributing." /%}
+{% quick-link title="MouseHunt" href="https://www.mousehuntgame.com" description="Play the game! (Hopefully you've done this part already)." /%}
+{% quick-link title="mouse.rip" href="https://mouse.rip" description="A useful site containing guides, tools, and resources." /%}
+{% quick-link title="Join the MH Discord" href="https://discord.gg/mousehunt" description="Join the community and hang out." /%}
+{% quick-link title="Improve the Guide" href="https://github.com/MHCommunity/mhbasics" description="Help improve this guide by contributing." /%}
 {% /quick-links %}
 
 ## Contributing
@@ -28,4 +28,4 @@ This guide was inspired by [MouseHunt Basics](https://mousehuntbasics.wordpress.
 ## Disclaimer
 
 This is a guide for the game MouseHunt. The words probably won't make sense if you don’t play the game.
-All MouseHunt images included here are the properties  of [HitGrab Inc](https://hitgrab.com/).
+All MouseHunt images included here are the properties of [HitGrab Inc](https://hitgrab.com/).

@@ -113,7 +113,6 @@ Continue until you have caught 2 Rooks and 1 Queen on one side i.e. King is unlo
 - When Tower Amplifier is at least 80%, use Pawn Pincher of the side with unlocked King, Base and Gouda Cheese or SuperBrie+.
 - When Tower Amplifier is below 80%, use your best Tactical weapon (Zugzwang’s First MovHorrific Venus Mouse Trap), Fan Base and Gouda Cheese or SuperBrie+.
 
-
 Technic King Mouse and Mystic King Mouse are highly sought after in Treasure Hunting. If you are not against the monetization of aspects of mapping, you should offer to snipe the King for a sizeable bounty (note that ongoing prices can fluctuate) on MouseHunt Discord or dedicated mapping groups like Mapmeisters.
 
 Technic King Mouse drops Technic Cheese Mould while Mystic King Mouse drops Mystic Curd. These items will be used to craft a special cheese. You would be automatically transported to Seasonal Garden upon catching Technic King Mouse or Mystic King Mouse.

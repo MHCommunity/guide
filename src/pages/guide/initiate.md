@@ -12,7 +12,7 @@ image: /images/shields/initiate.png
 /%}
 
 {% callout %}
-Harbour is the first area that mice can *steal* your gold, points or extra cheese. This also happens in the majority of other areas, but don't worry - this only happens when you fail to catch a mouse. If you catch a mouse, you will not lose any gold, points or extra cheese.
+Harbour is the first area that mice can _steal_ your gold, points or extra cheese. This also happens in the majority of other areas, but don't worry - this only happens when you fail to catch a mouse. If you catch a mouse, you will not lose any gold, points or extra cheese.
 {% /callout %}
 
 - Use Brie Cheese.
@@ -30,6 +30,5 @@ Continue the cycle for more bounty until you rank up to Journeyman / Journeywoma
 If you have more than 100,000 gold, buy the Swiss Army Mouse Trap from the Town of Gnawnia Trapsmith. If you have around 200,000 gold, you can consider buying the NVMRC Forcefield Trap instead. Also get the Dehydration Base for 24,000 gold, as it is an upgrade over the Fan Base.
 
 ## What to do next
-
 
 Travel to Mountain once you rank up to Journeyman / Journeywoman.
