@@ -49,12 +49,27 @@ export default function App({ Component, pageProps }) {
   let pageTitle = pageProps.markdoc?.frontmatter.pageTitle || `${pageProps.markdoc?.frontmatter.title} - MouseHunt Essentials Guide`
   let description = pageProps.markdoc?.frontmatter.description
   let tableOfContents = pageProps.markdoc?.content ? collectHeadings(pageProps.markdoc.content) : []
+  let image = pageProps.markdoc?.frontmatter.image ? `https://guide.mouse.rip/${pageProps.markdoc?.frontmatter.image}` : 'https://guide.mouse.rip/images/social.png'
 
   return (
     <>
       <Head>
         <title>{pageTitle}</title>
+
         {description && <meta name="description" content={description} />}
+
+        {/** Open Graph tags */}
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={pageTitle} />
+        {description && <meta property="og:description" content={description} />}
+        {image && <meta property="og:image" content={image} />}
+
+        {/** Twitter Card tags */}
+        {image && <meta name="twitter:card" content="summary" />}
+        <meta name="twitter:title" content={title} />
+        {description && <meta name="twitter:description" content={description} />}
+        {image && <meta name="twitter:image" content={image} />}
       </Head>
       <Layout title={title} tableOfContents={tableOfContents}>
         <Component {...pageProps} />

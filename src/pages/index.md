@@ -1,7 +1,7 @@
 ---
 title: MouseHunt Essentials Guide
-pageTitle: MouseHunt Essentials Guide
 description: A guide for MouseHunt for the early game and beyond.
+image: /images/social.png
 ---
 
 A guide for [MouseHunt](https://mousehuntgame.com) for the early game and beyond.
