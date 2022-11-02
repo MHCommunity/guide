@@ -5,8 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "npm run lint:md && npm run lint:js",
+    "lint:fix": "npm run lint:js:fix",
+    "lint:js": "next lint",
+    "lint:js:fix": "next lint --fix",
+    "lint:md": "eslint *.md -c .eslintrc.json",
+    "prettier": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc.json"
   },
   "browserslist": "defaults, not ie <= 11",
   "dependencies": {
@@ -28,8 +34,11 @@
     "tailwindcss": "^3.1.8"
   },
   "devDependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.4.0",
     "eslint": "8.19.0",
     "eslint-config-next": "12.2.5",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-markdownlint": "^0.4.0",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13"
   }

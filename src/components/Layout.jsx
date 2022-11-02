@@ -187,12 +187,12 @@ export function Layout({ children, title, tableOfContents }) {
               <header className="mb-9">
                 {title && (
                   <div className="flex items-center space-x-6">
-                  {titleImage && (
-                    <Image src={titleImage} alt={title} width={45} height={45} />
-                  )}
-                  <h1 className="font-display font-extrabold sm:text-4xl text-3xl tracking-tight text-slate-900 dark:text-white">
-                    {title}
-                  </h1>
+                    {titleImage && (
+                      <Image src={titleImage} alt={title} width={45} height={45} />
+                    )}
+                    <h1 className="font-display font-extrabold sm:text-4xl text-3xl tracking-tight text-slate-900 dark:text-white">
+                      {title}
+                    </h1>
                   </div>
                 )}
               </header>
@@ -243,7 +243,7 @@ export function Layout({ children, title, tableOfContents }) {
                   {tableOfContents.map((section) => (
                     <li key={section.id}>
                       <h3>
-                        <Link href={`#${section.id}`} className={clsx( isActive(section) ? 'text-sky-500' : 'font-normal text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300' )}>
+                        <Link href={`#${section.id}`} className={clsx(isActive(section) ? 'text-sky-500' : 'font-normal text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-300')}>
                           {section.title}
                         </Link>
                       </h3>
