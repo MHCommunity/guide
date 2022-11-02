@@ -1,5 +1,6 @@
 ---
 title: MouseHunt Essentials Guide
+pageTitle: MouseHunt Essentials Guide
 description: A guide for MouseHunt for the early game and beyond.
 ---
 
