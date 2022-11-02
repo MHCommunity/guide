@@ -119,9 +119,9 @@ You are recommended to have the following traps
 
 The core mechanics of the area is streaking. Streaks can be achieved more easily by buying and arming special Warpath Charms, either regular ones or those strengthened by Magic Essence. These Charms will help attract a certain type of mouse, but they can fail in doing so. Catching any different mouse type, FTCs or FTAs will break a Streak.
 
-- A Streak of *3* causes *2* mice of the same class to retreat
-- A Streak of *6* causes *4* mice of the same class to retreat
-- A Streak of *9* causes *6* mice of the same class to retreat
+- A Streak of _3_ causes _2_ mice of the same class to retreat
+- A Streak of _6_ causes _4_ mice of the same class to retreat
+- A Streak of _9_ causes _6_ mice of the same class to retreat
 
 Tips
 
@@ -205,8 +205,10 @@ King's Credit | You can buy some Artisan Charm. Arming Artisan Charm enables you
 Order of Shoppe to repair:
 
 1. General Store
-  - Limestone Brick: 60
-  - Coconut Timber: 40
+
+- Limestone Brick: 60
+- Coconut Timber: 40
+
 2. Charm Shoppe
    - Limestone Brick: 160
    - Coconut Timber: 100
@@ -216,9 +218,11 @@ Order of Shoppe to repair:
    - Coconut Timber: 20
    - Papyrus: 25
 4. Trapsmith
-  - Limestone Brick: 70
-  - Coconut Timber: 120
-  - Molten Glass: 60
+
+- Limestone Brick: 70
+- Coconut Timber: 120
+- Molten Glass: 60
+
 5. Cheese Shoppe
    - Limestone Brick: 30
 

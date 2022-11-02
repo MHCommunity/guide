@@ -1,5 +1,5 @@
-import Link from 'next/link'
 import clsx from 'clsx'
+import Link from 'next/link'
 
 const styles = {
   primary:
@@ -11,9 +11,5 @@ const styles = {
 export function Button({ variant = 'primary', className, href, ...props }) {
   className = clsx(styles[variant], className)
 
-  return href ? (
-    <Link href={href} className={className} {...props} />
-  ) : (
-    <button className={className} {...props} />
-  )
+  return href ? <Link href={href} className={className} {...props} /> : <button className={className} {...props} />
 }

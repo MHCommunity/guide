@@ -1,10 +1,8 @@
-import Head from 'next/head'
-import { slugifyWithCounter } from '@sindresorhus/slugify'
-
 import { Layout } from '@/components/Layout'
-
-import 'focus-visible'
 import '@/styles/global.css'
+import { slugifyWithCounter } from '@sindresorhus/slugify'
+import 'focus-visible'
+import Head from 'next/head'
 
 function getNodeText(node) {
   let text = ''
@@ -28,9 +26,7 @@ function collectHeadings(nodes, slugify = slugifyWithCounter()) {
         node.attributes.id = id
         if (node.name === 'h3') {
           if (!sections[sections.length - 1]) {
-            throw new Error(
-              'Cannot add `h3` to table of contents without a preceding `h2`'
-            )
+            throw new Error('Cannot add `h3` to table of contents without a preceding `h2`')
           }
           sections[sections.length - 1].children.push({
             ...node.attributes,

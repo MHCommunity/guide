@@ -1,12 +1,11 @@
-import { useId } from 'react'
-import clsx from 'clsx'
-
 import { InstallationIcon } from '@/components/icons/InstallationIcon'
 import { LightbulbIcon } from '@/components/icons/LightbulbIcon'
 import { PluginsIcon } from '@/components/icons/PluginsIcon'
 import { PresetsIcon } from '@/components/icons/PresetsIcon'
 import { ThemingIcon } from '@/components/icons/ThemingIcon'
 import { WarningIcon } from '@/components/icons/WarningIcon'
+import clsx from 'clsx'
+import { useId } from 'react'
 
 const icons = {
   installation: InstallationIcon,
@@ -28,13 +27,7 @@ export function Icon({ color = 'blue', icon, className, ...props }) {
   let IconComponent = icons[icon]
 
   return (
-    <svg
-      aria-hidden="true"
-      viewBox="0 0 32 32"
-      fill="none"
-      className={clsx(className, iconStyles[color])}
-      {...props}
-    >
+    <svg aria-hidden="true" viewBox="0 0 32 32" fill="none" className={clsx(className, iconStyles[color])} {...props}>
       <IconComponent id={id} color={color} />
     </svg>
   )
@@ -45,27 +38,13 @@ const gradients = {
     { stopColor: '#FDE68A', offset: '.08' },
     { stopColor: '#F59E0B', offset: '.837' },
   ],
-  blue: [
-    { stopColor: '#0EA5E9' },
-    { stopColor: '#22D3EE', offset: '.527' },
-    { stopColor: '#818CF8', offset: 1 },
-  ],
-  red: [
-    { stopColor: '#F87171' },
-    { stopColor: '#EF4444', offset: '.527' },
-    { stopColor: '#DC2626', offset: 1 },
-  ],
+  blue: [{ stopColor: '#0EA5E9' }, { stopColor: '#22D3EE', offset: '.527' }, { stopColor: '#818CF8', offset: 1 }],
+  red: [{ stopColor: '#F87171' }, { stopColor: '#EF4444', offset: '.527' }, { stopColor: '#DC2626', offset: 1 }],
 }
 
 export function Gradient({ color = 'blue', ...props }) {
   return (
-    <radialGradient
-      cx={0}
-      cy={0}
-      r={1}
-      gradientUnits="userSpaceOnUse"
-      {...props}
-    >
+    <radialGradient cx={0} cy={0} r={1} gradientUnits="userSpaceOnUse" {...props}>
       {gradients[color].map((stop, stopIndex) => (
         <stop key={stopIndex} {...stop} />
       ))}

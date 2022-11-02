@@ -3,7 +3,8 @@ import clsx from 'clsx'
 export function Prose({ as: Component = 'div', className, ...props }) {
   return (
     <Component
-      className={clsx(className,
+      className={clsx(
+        className,
         // Base styles.
         'prose prose-slate max-w-none dark:prose-invert dark:text-slate-300 text-lg leading-7',
         // Headings.

@@ -1,7 +1,7 @@
-import Image from 'next/image'
 import { Callout } from '@/components/Callout'
 import { ComingSoon } from '@/components/ComingSoon'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
+import Image from 'next/image'
 
 const tags = {
   callout: {
@@ -45,16 +45,8 @@ const tags = {
     },
     render: ({ name, src, description }) => (
       <div>
-        <Image
-          src={src}
-          alt={name}
-          width={750}
-          height={275}
-          className="rounded-lg shadow"
-        />
-        <blockquote>
-          {description}
-        </blockquote>
+        <Image src={src} alt={name} width={750} height={275} className="rounded-lg shadow" />
+        <blockquote>{description}</blockquote>
       </div>
     ),
   },

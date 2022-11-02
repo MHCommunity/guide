@@ -1,6 +1,5 @@
-import clsx from 'clsx'
-
 import { Icon } from '@/components/Icon'
+import clsx from 'clsx'
 
 const styles = {
   note: {
@@ -22,7 +21,7 @@ const styles = {
 
 const icons = {
   error: (props) => <Icon icon="warning" color="red" {...props} />,
-  note: (props)  => <Icon icon="lightbulb" {...props} />,
+  note: (props) => <Icon icon="lightbulb" {...props} />,
   warning: (props) => <Icon icon="warning" color="amber" {...props} />,
 }
 
@@ -31,14 +30,10 @@ export function Callout({ type = 'note', title, children }) {
 
   return (
     <div className={clsx('my-8 flex rounded-3xl p-6', styles[type].container)}>
-      <IconComponent className="h-8 w-8 flex-none" />
-      <div className="ml-4 flex-auto">
-        <p className={clsx('m-0 font-display text-xl', styles[type].title)}>
-          {title}
-        </p>
-        <div className={clsx('prose mt-2.5', styles[type].body)}>
-          {children}
-        </div>
+      <IconComponent className="flex-none w-8 h-8" />
+      <div className="flex-auto ml-4">
+        <p className={clsx('m-0 font-display text-xl', styles[type].title)}>{title}</p>
+        <div className={clsx('prose mt-2.5', styles[type].body)}>{children}</div>
       </div>
     </div>
   )

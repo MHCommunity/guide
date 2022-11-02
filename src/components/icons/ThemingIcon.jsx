@@ -4,16 +4,8 @@ export function ThemingIcon({ id, color }) {
   return (
     <>
       <defs>
-        <Gradient
-          id={`${id}-gradient`}
-          color={color}
-          gradientTransform="matrix(0 21 -21 0 12 11)"
-        />
-        <Gradient
-          id={`${id}-gradient-dark`}
-          color={color}
-          gradientTransform="matrix(0 24.5 -24.5 0 16 5.5)"
-        />
+        <Gradient id={`${id}-gradient`} color={color} gradientTransform="matrix(0 21 -21 0 12 11)" />
+        <Gradient id={`${id}-gradient-dark`} color={color} gradientTransform="matrix(0 24.5 -24.5 0 16 5.5)" />
       </defs>
       <LightMode>
         <circle cx={12} cy={20} r={12} fill={`url(#${id}-gradient)`} />
@@ -25,11 +17,7 @@ export function ThemingIcon({ id, color }) {
           strokeLinecap="round"
           strokeLinejoin="round"
         />
-        <path
-          d="M3 3h10v22a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V3Z"
-          className="fill-[var(--icon-background)]"
-          fillOpacity={0.5}
-        />
+        <path d="M3 3h10v22a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V3Z" className="fill-[var(--icon-background)]" fillOpacity={0.5} />
         <path
           d="M3 9v16a4 4 0 0 0 4 4h2a4 4 0 0 0 4-4V9M3 9V3h10v6M3 9h10M3 15h10M3 21h10"
           className="stroke-[color:var(--icon-foreground)]"
