@@ -43,7 +43,7 @@ const tags = {
       src: { type: String },
       description: { type: String },
     },
-    render: ({ name, src, description }) => (
+    render: ({ name, src, description = '' }) => (
       <div>
         <Image src={src} alt={name} width={750} height={275} className="rounded-lg shadow" />
         <blockquote>{description}</blockquote>
