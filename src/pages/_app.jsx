@@ -49,7 +49,7 @@ export default function App({ Component, pageProps }) {
   let pageTitle = pageProps.markdoc?.frontmatter.pageTitle || `${pageProps.markdoc?.frontmatter.title} - MouseHunt Essentials Guide`
   let description = pageProps.markdoc?.frontmatter.description
   let tableOfContents = pageProps.markdoc?.content ? collectHeadings(pageProps.markdoc.content) : []
-  let image = pageProps.markdoc?.frontmatter.image ? `https://guide.mouse.rip/${pageProps.markdoc?.frontmatter.image}` : 'https://guide.mouse.rip/images/social.png'
+  let image = pageProps.markdoc?.frontmatter.image ? `https://guide-preview.mouse.rip${pageProps.markdoc?.frontmatter.image}` : 'https://guide-preview.mouse.rip/images/social.png'
 
   return (
     <>
