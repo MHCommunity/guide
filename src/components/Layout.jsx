@@ -13,13 +13,6 @@ import { Prose } from '@/components/Prose'
 
 const navigation = [
   {
-    title: 'Introduction',
-    links: [
-      { title: 'Getting started', href: '/' },
-      { title: 'Template', href: '/template' },
-    ],
-  },
-  {
     title: 'Hunter Rank',
     links: [
       { title: 'Novice', href: '/guide/novice', image: '/images/shields/novice.png' },
