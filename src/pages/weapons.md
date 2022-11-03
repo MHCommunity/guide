@@ -1,0 +1,124 @@
+---
+title: Weapons
+---
+
+## List of Weapons
+
+- 500 Pound Spiked Crusher
+- Ambrosial Portal
+- Ambush Trap
+- Ancient Box Trap
+- Ancient Spear Gun
+- Arcane Capturing Rod Of Never Yielding Mystery
+- Bandit Deflector
+- Blackstone Pass Trap
+- Blazing Ember Spear Trap
+- Boiling Cauldron Trap
+- Bottomless Grave
+- Celestial Dissonance Trap
+- Charming PrinceBot
+- Chrome Celestial Dissonance Trap
+- Chrome MonstroBot
+- Chrome Oasis Water Node Trap
+- Chrome Phantasmic Oasis Trap
+- Chrome School of Sharks Trap
+- Chrome Sphynx Wrath
+- Chrome Storm Wrought Ballista Trap
+- Chrome Temporal Turbine
+- Chrome Thought Obliterator Trap
+- Circlet of Pursuing Trap
+- Circlet of Seeking Trap
+- Clockapult of Time
+- Clockapult of Winter Past
+- Clockwork Portal Trap
+- Creepy Coffin Trap
+- Crystal Crucible Trap
+- Crystal Tower
+- Dark Magic Mirrors Trap
+- Digby DrillBot
+- Dimensional Chest Trap
+- Dragon Slayer Cannon
+- Dragonvine Ballista Trap
+- Droid Archmagus Trap
+- Ember Prison Core Trap
+- Endless Labyrinth Trap
+- Engine Doubler
+- Enraged RhinoBot
+- Event Horizon Trap
+- Fluffy DeathBot
+- Focused Crystal Laser
+- Forgotten Pressure Plate Trap
+- Gingerbread House Surprise
+- Gorgon Trap
+- Gouging Geyserite Trap
+- Grand Arcanum Trap
+- Grungy Deathbot
+- Harpoon Gun
+- Heat Bath
+- High Tension Spring
+- Horrific Venus Mouse Trap
+- Ice Maiden
+- Icy RhinoBot
+- Infinite Labyrinth Trap
+- Interdimensional Crossbow
+- Judge Droid Trap
+- Meteor Prison Core Trap
+- Mouse DeathBot
+- Mouse Hot Tub
+- Mouse Mary O'Nette
+- Mouse Rocketine
+- Mouse Trebuchet
+- Multi-Crystal Laser
+- Mutated Venus Mouse Trap
+- Mysteriously unYielding Null-Onyx Rampart of Cascading Amperes
+- Mystic Pawn Pincher
+- Net Cannon
+- Ninja Ambush Trap
+- NVMRC Forcefield Trap
+- Oasis Water Node Trap
+- Obelisk of Incineration Trap
+- Obelisk of Slumber Trap
+- Obvious Ambush Trap
+- Onyx Mallet
+- Phantasmic Oasis Trap
+- Queso Factory Trap
+- Queso Fount Trap
+- Reaper's Perch
+- RhinoBot
+- Rune Shark Trap
+- S.L.A.C.
+- S.L.A.C. II
+- S.T.I.N.G. Trap
+- S.T.I.N.G.E.R. Trap
+- S.U.P.E.R. Scum Scrubber
+- Sandstorm MonstroBot
+- Sandtail Sentinel
+- Scarlet Ember Root Trap
+- School of Sharks Trap
+- Scum Scrubber
+- Shrink Ray Trap
+- Sinister Portal
+- Sleeping Stone Trap
+- Slumbering Boulder Trap
+- Smoldering Stone Sentinel Trap
+- Sphynx Wrath
+- Steam Laser Mk. I
+- Steam Laser Mk. II
+- Steam Laser Mk. II (Broken!)
+- Steam Laser Mk. III
+- Storm Wrought Ballista Trap
+- Supply Grabber
+- Swiss Army Mouse Trap
+- Tacky Glue Trap
+- Technic Pawn Pincher
+- Temporal Turbine
+- The Forgotten Art of Dance
+- Thorned Venus Mouse Trap
+- Thought Manipulator Trap
+- Thought Obliterator Trap
+- Timesplit Dissonance Trap
+- Tome of the Mind's Eye Trap
+- Venus Mouse Trap
+- Zugzwang's First Move
+- Zugzwang's Last Move
+- Zurreal's Folly

@@ -1,12 +1,6 @@
 ---
-layout: default
 title: S.L.A.C
-parent: Law
-permalink: /weapons/law/slac
-nav_order: 1
 ---
-
-<span class="fs-1">[S.L.A.C.](/weapons/law/slac){: .btn .btn-grey } </span><span class="fs-1"> [MPCT](/weapons/law/MPCT){: .btn .btn-grey } </span><span class="fs-1"> [Judge Droid Trap](/weapons/law/jdt){: .btn .btn-grey } </span><span class="fs-1"> [Ember Prison Core Trap](/weapons/shadow/epct){: .btn .btn-grey } </span><span class="fs-1"> [S.T.I.N.G.E.R](/weapons/shadow/stinger){: .btn .btn-grey } </span>
 
 ## S.L.A.C.
 

@@ -1,12 +1,8 @@
 ---
-layout: default
 title: Earlygame Physical
-parent: Physical
-permalink: /weapons/physical/early
-nav_order: 1
 ---
 
-# Physical - Earlygame
+## Physical - Earlygame
 
 The earliest parts of physical are quite a mess with a lot of moving parts. Because of this, any physical weapon route before the Digby Drillbot is very hard to estimate. Thankfully, all these weapons are simply buyable in stores for nothing but gold. Despite that, here are a couple of guidelines:
 
