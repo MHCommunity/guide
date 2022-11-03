@@ -96,7 +96,15 @@ Tower Amplifier directly affects Power and Luck of your set-up in Zugzwang’s T
 
 Similar to Seasonal Garden, Failure To Attract in Zugzwang’s Tower will reduce the charge of the Tower Amplifier. You should be using Gouda Cheese or SuperBrie+ (if you can afford it) here. Always focus on doing one side first and then the other side. Doing so reduces the chance of unlocking higher pieces on the side you do not want, which depletes more Tower Amplifier when caught. It is sometimes also beneficial to use a weaker set-up to minimize the chances of catching unwanted mice.
 
-<img src="/assets/images/adventure/toweramp.png" width="600">
+| Type of Mouse | Decrease in Tower Amplifier |
+| ------------- | --------------------------- |
+| Pawn          | 1%                          |
+| Knight        | 3%                          |
+| Bishop        | 3%                          |
+| Rook          | 5%                          |
+| Queen         | 9%                          |
+| King          | 10%                         |
+| Chess Master  | 10%                         |
 
 You will NOT lose any progress or Tower Amplifier if you leave the area. You would just be locked out of the Seasonal Garden the moment you catch a mouse in Zugzwang’s Tower.
 

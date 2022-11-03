@@ -19,7 +19,14 @@ Once you’ve decided on a trap, the question is how to proceed for bait. When y
 
 There are 6 types of Havarti Cheese are required to attract the 6 mice in Jungle of Dread with special loot. Each type of Havarti Cheese corresponds to one of 6 types of Pepper Plants. Pepper Plant is crafted with 2 Pepper Seed and 1 Plant Pot from Cape Clawed General Store. The colour of Pepper Seed determines the type of Pepper Plants obtained. It is advised to craft 3 of each type of Pepper Plants.
 
-<img src="/assets/images/Adventure/jodpeppers.jpg" width="600">
+| Pepper Seeds                              | Pepper Plant                |
+| ----------------------------------------- | --------------------------- |
+| 2 Red Pepper Seeds                        | Spicy Red Pepper Plant      |
+| 2 Blue Pepper Seeds                       | Magical Blue Pepper Plant   |
+| 2 Yellow Pepper Seeds                     | Sweet Yellow Pepper Plant   |
+| 1 Red Pepper Seed & 1 Yellow Pepper Seed  | Creamy Orange Pepper Plant  |
+| 1 Red Pepper Seed & 1 Blue Pepper Seed    | Pungent Purple Pepper Plant |
+| 1 Blue Pepper Seed & 1 Yellow Pepper Seed | Crunchy Green Pepper Plant  |
 
 Pick pepper from Pepper Plants to get at least 12 Pepper of each type. On average each Pepper Plant gives slightly fewer than 4 pepper. Craft more Pepper Plants if you don’t get enough Pepper. Pepper Plant recipes and type of Pepper picked are summarised in the picture above.
 

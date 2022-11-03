@@ -36,7 +36,14 @@ Any damage to the wall can be repaired using Meteorite Pieces during Day only.
 
 Since Battering Ram Mouse deals 15 damage to wall even when caught, Crescent Cheese or Moon Cheese should be used to prevent its attraction. Attempting to cheap out with Gouda here only leads to unnecessary suffering.
 
-<img src="/assets/images/Adventure/froxdmg.png" width="600">
+| Event at Night and Dawn                                          | Damage to Wall without Moat                                    |
+| ---------------------------------------------------------------- | -------------------------------------------------------------- |
+| Battering Ram Mouse Encounter                                    | 15                                                             |
+| Successful catch of any mice except Battering Ram Mouse          | 0                                                              |
+| Failure to Catch any mice except Nightfire Mouse without pillage | 3×(1+No. of Monster of the Meteor catches in your current run) |
+| Failure to Catch any mice except Nightfire Mouse with pillage    | 5×/1+No. of Monster of the Meteor catches in your current run) |
+| Failure to Attract                                               | 5                                                              |
+| Failure to Catch Nightfire Mouse                                 | 10                                                             |
 
 Failure to Attract implies that your bait fails to lure the mice at Night away from wall, thus causing more damage than most Failure to Catch without pillage.
 Pillage is shown when you FTC a mouse and the box is red.
