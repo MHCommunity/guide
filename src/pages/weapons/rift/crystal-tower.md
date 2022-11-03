@@ -1,5 +1,6 @@
 ---
 title: Crystal Tower
+image: /images/weapon-thumbnails/crystal-tower.png
 ---
 
 ## Crystal Tower

@@ -1,5 +1,6 @@
 ---
 title: Chrome Sphynx Wrath
+image: /images/weapon-thumbnails/chrome-sphynx-wrath.png
 ---
 
 ## Chrome Sphynx Wrath

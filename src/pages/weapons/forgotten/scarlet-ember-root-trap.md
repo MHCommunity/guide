@@ -1,5 +1,6 @@
 ---
 title: Scarlet Ember Root Trap
+image: /images/weapon-thumbnails/scarlet-ember-root-trap.png
 ---
 
 ## Scarlet Ember Root Trap

@@ -1,5 +1,6 @@
 ---
 title: Earlygame Physical
+image: /images/weapon-thumbnails/earlygame-physical.png
 ---
 
 ## Physical - Earlygame

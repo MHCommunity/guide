@@ -1,5 +1,6 @@
 ---
 title: Hydro
+image: /images/weapon-thumbnailshydro.png
 image: /images/power-types/hydro.png
 ---
 

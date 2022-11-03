@@ -1,5 +1,6 @@
 ---
 title: Smoldering Stone Sentinel Trap
+image: /images/weapon-thumbnails/smoldering-stone-sentinel-trap.png
 ---
 
 ## Smoldering Stone Sentinel Trap

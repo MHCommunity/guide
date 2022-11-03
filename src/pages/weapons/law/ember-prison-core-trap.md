@@ -1,5 +1,6 @@
 ---
 title: Ember Prison Core Trap
+image: /images/weapon-thumbnails/ember-prison-core-trap.png
 ---
 
 ## Ember Prison Core Trap

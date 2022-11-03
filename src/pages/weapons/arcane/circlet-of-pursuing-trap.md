@@ -1,5 +1,6 @@
 ---
 title: Circlet of Pursuing
+image: /images/weapon-thumbnails/circlet-of-pursuing.png
 ---
 
 ## Circlet of Pursuing

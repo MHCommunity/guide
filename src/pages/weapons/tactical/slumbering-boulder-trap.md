@@ -1,5 +1,6 @@
 ---
 title: Slumbering Boulder Trap
+image: /images/weapon-thumbnails/slumbering-boulder-trap.png
 ---
 
 ## Slumbering Boulder Trap

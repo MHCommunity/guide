@@ -1,5 +1,6 @@
 ---
 title: Chrome Storm Wrought Ballista Trap
+image: /images/weapon-thumbnails/chrome-storm-wrought-ballista-trap.png
 ---
 
 ## Chrome Storm Wrought Ballista Trap

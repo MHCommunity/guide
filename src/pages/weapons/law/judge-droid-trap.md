@@ -1,5 +1,6 @@
 ---
 title: Judge Droid Trap
+image: /images/weapon-thumbnails/judge-droid-trap.png
 ---
 
 ## Judge Droid Trap

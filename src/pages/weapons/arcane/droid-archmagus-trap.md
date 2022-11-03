@@ -1,5 +1,6 @@
 ---
 title: Droid Archmagus Trap
+image: /images/weapon-thumbnails/droid-archmagus-trap.png
 ---
 
 ## Droid Archmagus Trap

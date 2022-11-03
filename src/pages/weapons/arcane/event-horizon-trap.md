@@ -1,5 +1,6 @@
 ---
 title: Event Horizon Trap
+image: /images/weapon-thumbnails/event-horizon-trap.png
 ---
 
 ## Event Horizon Trap

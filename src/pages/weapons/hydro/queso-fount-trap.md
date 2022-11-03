@@ -1,5 +1,6 @@
 ---
 title: Queso Fount Trap
+image: /images/weapon-thumbnails/queso-fount-trap.png
 ---
 
 ## Queso Fount Trap

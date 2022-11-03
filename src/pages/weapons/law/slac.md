@@ -1,5 +1,6 @@
 ---
 title: S.L.A.C
+image: /images/weapon-thumbnails/s.l.a.c.png
 ---
 
 ## S.L.A.C.

@@ -1,5 +1,6 @@
 ---
 title: Clockapult of Time
+image: /images/weapon-thumbnails/clockapult-of-time.png
 ---
 
 ## Clockapult of Time

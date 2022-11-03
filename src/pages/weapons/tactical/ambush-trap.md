@@ -1,5 +1,6 @@
 ---
 title: Ambush Trap
+image: /images/weapon-thumbnails/ambush-trap.png
 ---
 
 ## Ambush Trap

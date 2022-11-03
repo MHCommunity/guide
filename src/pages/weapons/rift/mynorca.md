@@ -1,5 +1,6 @@
 ---
 title: Mysteriously unYielding Null-Onyx Rampart of Cascading Amperes
+image: /images/weapon-thumbnails/mysteriously-unyielding-null-onyx-rampart-of-cascading-amperes.png
 ---
 
 ## Mysteriously unYielding Null-Onyx Rampart of Cascading Amperes

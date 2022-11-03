@@ -1,5 +1,6 @@
 ---
 title: Chrome MonstroBot
+image: /images/weapon-thumbnails/chrome-monstrobot.png
 ---
 
 <mark> Disclaimer: </mark> This weapon requires a [RhinoBot](/weapons/physical/erb).

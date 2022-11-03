@@ -1,5 +1,6 @@
 ---
 title: Gouging Geyserite Trap
+image: /images/weapon-thumbnails/gouging-geyserite-trap.png
 ---
 
 ## Gouging Geyserite Trap

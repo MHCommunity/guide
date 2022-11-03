@@ -1,5 +1,6 @@
 ---
 title: Ice Maiden
+image: /images/weapon-thumbnails/ice-maiden.png
 ---
 
 ## Ice Maiden

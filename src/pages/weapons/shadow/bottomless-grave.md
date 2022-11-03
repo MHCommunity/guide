@@ -1,5 +1,6 @@
 ---
 title: Bottomless Grave
+image: /images/weapon-thumbnails/bottomless-grave.png
 ---
 
 ## Bottomless Grave

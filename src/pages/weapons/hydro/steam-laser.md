@@ -1,5 +1,6 @@
 ---
 title: Steam Laser
+image: /images/weapon-thumbnails/steam-laser.png
 ---
 
 ## Steam Laser

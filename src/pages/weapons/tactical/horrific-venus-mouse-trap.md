@@ -1,5 +1,6 @@
 ---
 title: Horrific Venus Mouse Trap
+image: /images/weapon-thumbnails/horrific-venus-mouse-trap.png
 ---
 
 ## Horrific Venus Mouse Trap

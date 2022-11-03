@@ -1,5 +1,6 @@
 ---
 title: Meteor Prison Core Trap
+image: /images/weapon-thumbnails/meteor-prison-core-trap.png
 ---
 
 ## Meteor Prison Core Trap

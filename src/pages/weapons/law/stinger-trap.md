@@ -1,5 +1,6 @@
 ---
 title: S.T.I.N.G.E.R. Trap
+image: /images/weapon-thumbnails/s.t.i.n.g.e.r.-trap.png
 ---
 
 ## S.T.I.N.G.E.R. Trap

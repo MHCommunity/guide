@@ -1,5 +1,6 @@
 ---
 title: Dragon Slayer Cannon
+image: /images/weapon-thumbnails/dragon-slayer-cannon.png
 ---
 
 ## Dragon Slayer Cannon

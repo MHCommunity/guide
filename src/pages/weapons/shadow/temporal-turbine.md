@@ -1,5 +1,6 @@
 ---
 title: Temporal Turbine
+image: /images/weapon-thumbnails/temporal-turbine.png
 ---
 
 ## Temporal Turbine
