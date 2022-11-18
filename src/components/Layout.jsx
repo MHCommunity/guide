@@ -149,6 +149,7 @@ export function Layout({ children, title, tableOfContents }) {
     return section.children.findIndex(isActive) > -1
   }
 
+  const skipToc = children.props?.markdoc?.frontmatter?.skipToc ?? false
   const titleImage = children.props?.markdoc?.frontmatter?.image
 
   return (
@@ -180,7 +181,7 @@ export function Layout({ children, title, tableOfContents }) {
             )}
             <Prose>{children}</Prose>
           </article>
-          <dl className="flex pt-6 mt-12 border-t border-slate-200 dark:border-slate-800">
+          {!skipToc && (<dl className="flex pt-6 mt-12 border-t border-slate-200 dark:border-slate-800">
             {previousPage && (
               <div>
                 <dt className="text-sm font-medium font-display text-slate-900 dark:text-white">Previous</dt>
@@ -201,9 +202,9 @@ export function Layout({ children, title, tableOfContents }) {
                 </dd>
               </div>
             )}
-          </dl>
+          </dl>)}
         </div>
-        <div className="hidden xl:sticky xl:top-[4.5rem] xl:-mr-6 xl:block xl:h-[calc(100vh-4.5rem)] xl:flex-none xl:overflow-y-auto xl:py-16 xl:pr-6">
+        {!skipToc && (<div className="hidden xl:sticky xl:top-[4.5rem] xl:-mr-6 xl:block xl:h-[calc(100vh-4.5rem)] xl:flex-none xl:overflow-y-auto xl:py-16 xl:pr-6">
           <nav aria-labelledby="on-this-page-title" className="w-56">
             {tableOfContents.length > 0 && (
               <>
@@ -238,7 +239,7 @@ export function Layout({ children, title, tableOfContents }) {
               </>
             )}
           </nav>
-        </div>
+        </div>)}
       </div>
     </>
   )

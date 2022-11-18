@@ -1,12 +1,32 @@
 ---
 title: Draconic
 image: /images/power-types/draconic.png
+skipToc: true
 ---
 
-**RAAAAAAAAAAAAAAAAAWR**
-Welcome to Draconic, the powertype of beating up dragons and their natural predators. Once part of the end of the game, Draconic has evolved into a full-fledged powertype with multiple traps and double digits huntable mice. It is the powertype with by far the least unused main line weapons. Hunting these dragons starts with slapping them with some ice, and soon after transitions into shooting them with things from a blazing spear to a full-blown cannon!
+## Beating up dragons and their natural predators
 
-Ice Maiden
-Blazing Ember Spear Trap
-Chrome Storm Wrought Ballista Trap]
-Dragon Slayer Cannon
+Once part of the end of the game, *Draconic* has evolved into a full-fledged powertype with multiple traps and tons of huntable mice. It is the powertype with least unused weapons. Hunting these dragons starts with slapping them with some ice, transitions into shooting them with a blazing spear, and finally a full-blown cannon!
+
+{% quick-links %}
+ {% quick-link
+  title="Ice Maiden"
+  href="/weapons/draconic/ice-maiden"
+  thumbnail="/images/weapon-thumbnails/ice-maiden.png"
+ /%}
+ {% quick-link
+  title="Blazing Ember Spear Trap"
+  href="/weapons/draconic/blazing-ember-spear-trap"
+  thumbnail="/images/weapon-thumbnails/blazing-ember-spear-trap.png"
+ /%}
+ {% quick-link
+  title="Chrome Storm Wrought Ballista Trap"
+  href="/weapons/draconic/chrome-storm-wrought-ballista-trap"
+  thumbnail="/images/weapon-thumbnails/chrome-storm-wrought-ballista-trap.png"
+ /%}
+ {% quick-link
+  title="Dragon Slayer Cannon"
+  href="/weapons/draconic/dragon-slayer-cannon"
+  thumbnail="/images/weapon-thumbnails/dragon-slayer-cannon.png"
+ /%}
+{% /quick-links %}

@@ -7,7 +7,7 @@ image: /images/shields/novice.png
 
 {% location
  name="Meadow"
- src="/images/weapons/500-pound-spiked-crusher.png"
+ src="/images/locations/meadow.png"
  description="Slightly secluded from the human population, the Meadow is mostly inhabited by the more timid breeds of mice. Considered somewhat of a safe haven for novice mouse hunters who hate to see their cheese stolen."
 /%}
 

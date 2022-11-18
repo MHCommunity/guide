@@ -6,14 +6,15 @@ image: /images/weapon-thumbnails/mutated-venus-mouse-trap.png
 ## Mutated Venus Mouse Trap
 
 This plant stinks
-<img src="/assets/images/weapons/mvmt.png" alt="plants vs mousies" width="600">
+{% weapon-stats
+ power="2,300"
+ powerBonus="15%"
+ luck="8"
+ attraction="0%"
+ cheeseEffect="Insanely Stale"
+ powerType="Tactical"
+/%}
 
-|                        |                |                     |                                               |
-| ---------------------- | -------------- | ------------------- | --------------------------------------------- |
-| **Power**              | 2,300          | **Luck**            | 8                                             |
-| **Power Bonus**        | 15%            | **AttractionBonus** | 0%                                            |
-| **Cheese Effect**      | Insanely Stale | **Powertype**       | Tactical                                      |
-| **Acquisition Method** | Trapsmith      | **Cost**            | 20 Radioactive Sludge <br> 1 Venus Mouse Trap |
 
 ### Weapon Acquisition
 
