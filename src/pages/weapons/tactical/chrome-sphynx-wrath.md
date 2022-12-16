@@ -1,23 +1,37 @@
 ---
 title: Chrome Sphynx Wrath
 image: /images/weapon-thumbnails/chrome-sphynx-wrath.png
+skipToc: true
 ---
 
-## Chrome Sphynx Wrath
+{% weapon
+ name="Chrome Sphynx Wrath"
+ src="/images/weapons/chrome-sphynx-wrath.png"
+ description="Coated in blinding chrome, this trap is a sight to behold! Light sparkles, shines, and reflects from the Sphynx's opulent wings scattering light throughout any Camp site.
 
-<img src="/assets/images/weapons/csw.png" alt="shiny kitty" width="600">
+It's a small wonder the small, moving dots of reflected light don't distract the kitty from its job at hand!"
+/%}
 
-|                        |            |                     |                                                             |
-| ---------------------- | ---------- | ------------------- | ----------------------------------------------------------- |
-| **Power**              | 6,500      | **Luck**            | 28                                                          |
-| **Power Bonus**        | 15%        | **AttractionBonus** | 10%                                                         |
-| **Cheese Effect**      | Very Fresh | **Powertype**       | Tactical                                                    |
-| **Acquisition Method** | Crafting   | **Cost**            | 1 Sphynx Wrath Parts <br> 1 Chrome Sphynx Wrath Upgrade Kit |
+{% weapon-stats
+ power="6,500"
+ powerBonus="15%"
+ luck="28"
+ attraction="10%"
+ cheeseEffect="Very Fresh"
+ powerType="Tactical"
+ title="Baron / Baroness"
+/%}
 
-### Weapon Acquisition
+## Acquiring Chrome Sphynx Wrath
 
-The Chrome Sphynx Wrath Trap can be crafted using 1 Chrome Sphynx Wrath Upgrade Kit and 1 Sphynx Wrath Parts.
+The Chrome Sphynx Wrath can be bought from the Trapsmith in the *location* for ...
 
-- a Chrome Sphynx Wrath Upgrade Kit can be purchased from either the Marketplace or from Ronza's Traveling Shoppe for 12,000,000 gold and a Chrome Voucher
-- Sphynx Wrath Parts can be acquired by smashing a Sphynx Wrath Trap, which can be purchased from the Fiery Warpath Trapsmith after 1 Warpath Victory for 1,628,000 Gold, 1 Sphynx Crystal and 200 Flameshards.
-  I'm honestly not sure where to go from here
+- Tip one on how to get the needed resource
+
+## Info and Trivia
+
+Something ...
+
+## Should you get Chrome Sphynx Wrath?
+
+Yes, No, alternatives, etc...

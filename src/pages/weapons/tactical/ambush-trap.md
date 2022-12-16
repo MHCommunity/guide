@@ -1,25 +1,34 @@
 ---
 title: Ambush Trap
 image: /images/weapon-thumbnails/ambush-trap.png
+skipToc: true
 ---
 
-## Ambush Trap
+{% weapon
+ name="Ambush Trap"
+ src="/images/weapons/ambush-trap.png"
+ description="This peaceful setting for tea and a light snack appears to be the perfect spot for war-hardened mice to pause for some peaceful rest and meditation. Yet behind a thin paper wall lies a robot ambush of epic proportions! The loyal droids follow the will of their controlling hunter to either capture and exile mice or use their high speed reflexes for a heavy battle that is sure to erupt into various explosions and montages."
+/%}
 
-Where is that gouging geyser now?
-<img src="/assets/images/weapons/ambush.png" alt="OG Sneaky" width="600">
+{% weapon-stats
+ power="3,000"
+ powerBonus="5%"
+ luck="12"
+ cheeseEffect="Fresh"
+ powerType="Tactical"
+ title="Grandmaster"
+/%}
 
-|                        |           |                     |                                                                |
-| ---------------------- | --------- | ------------------- | -------------------------------------------------------------- |
-| **Power**              | 3,000     | **Luck**            | 12                                                             |
-| **Power Bonus**        | 5%        | **AttractionBonus** | 0%                                                             |
-| **Cheese Effect**      | Fresh     | **Powertype**       | Tactical                                                       |
-| **Acquisition Method** | Trapsmith | **Cost**            | 63,410 Gold <br> 1 Master's Seal <br> 1 Ambush Trap Blueprints |
+## Acquiring Ambush Trap
 
-### Weapon Acquisition
+The Ambush Trap can be bought from the Trapsmith in the *location* for ...
 
-The Ambush Trap can be purchased from the Trapsmith in the Dojo, Meditation Room and Pinnacle Chamber for 63,410 Gold, 1 Master's Seal and 1 Ambush Trap Blueprints
+- Tip one on how to get the needed resource
 
-- A Master's Seal can be crafted by combining a Master Belt Shard, Master Claw Shard and Master Fang Shard, which are guaranteed loots from the Masters of the Cheese Belt, Claw and Fang respectively.
-- Ambush Trap Blueprints are dropped by Happless, Assassin and Worker mice. The easiest method of acquisition is hunting with regular cheese in the Pinnacle Chamber to guarantee attracting a Happless Mouse.
+## Info and Trivia
 
-I'm honestly not sure where to go from here
+Something ...
+
+## Should you get Ambush Trap?
+
+Yes, No, alternatives, etc...

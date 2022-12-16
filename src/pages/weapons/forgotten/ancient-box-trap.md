@@ -1,35 +1,33 @@
 ---
 title: Ancient Box Trap
 image: /images/weapon-thumbnails/ancient-box-trap.png
+skipToc: true
 ---
 
-## Ancient Box Trap
+{% weapon
+ name="Ancient Box Trap"
+ src="/images/weapons/ancient-box-trap.png"
+ description="The ancient ghost mice which roamed Gnawnia before even the castle existed require an old-fashioned trap strategy, and the Ancient Box Trap is about as old-fashioned as they come. A heavy stone box teeters precariously upon an Ancient Relic Staff, waiting for a mouse to pull the Ethereal Rope and cause the box to slam shut and magically fuse with the base. This may seem like a deceptively simple trap set-up, but ancient mice enjoy the classics."
+/%}
 
-<img src="/assets/images/weapons/abt.png" alt="here were dragons" width="600">
+{% weapon-stats
+ power="4,300"
+ powerBonus="10%"
+ luck="4"
+ powerType="Forgotten"
+ title="Hero"
+/%}
 
-|                        |           |                     |                                                                                                                                                                                                                                                                                                     |
-| ---------------------- | --------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Power**              | 4,300     | **Luck**            | 4                                                                                                                                                                                                                                                                                                   |
-| **Power Bonus**        | 10%       | **AttractionBonus** | 0%                                                                                                                                                                                                                                                                                                  |
-| **Cheese Effect**      | No Effect | **Powertype**       | Forgotten                                                                                                                                                                                                                                                                                           |
-| **Acquisition Method** | Trapsmith | **Cost**            | 158,175 gold <br> 1 Ancient Ripped Blueprint piece <br> 1 Ancient Frayed Blueprint piece <br> 1 Ancient Mangled Blueprint piece <br> 1 Ancient Relic Staff <br> 1 Timeless Mystic Gem <br> 1 Hinge of Eternity <br> 1 Ethereal Rope <br> 1 Engraved Solid Stone Slab <br> 1 Encrusted Metal of Time |
+## Acquiring Ancient Box Trap
 
-### Weapon Acquisition
+The Ancient Box Trap can be bought from the Trapsmith in the *location* for ...
 
-The Ancient Box Trap can be bought for 158,175 gold, 1 Ancient Ripped Blueprint piece, 1 Ancient Frayed Blueprint piece, 1 Ancient Mangled Blueprint piece, 1 Ancient Relic Staff, 1 Timeless Mystic Gem, 1 Hinge of Eternity, 1 Ethereal Rope, 1 Engraved Solid Stone Slab and 1 Encrusted Metal of Time from the Trapsmith at Cape Clawed, the Jungle of Dread and Balack's Cove.
+- Tip one on how to get the needed resource
 
-- The 3 Blueprint Pieces are dropped by the Nerg, Elub and Derr Chieftains in their respective locations.
-- The other items are dropped by the mice in the Jungle of Dread, each of the Havarti mice having their own respective drop. For further details, see the [main guide](/legendary-to-knight/hero).
+## Info and Trivia
 
-### General Info and Trivia
+Something ...
 
-The Ancient Box Trap is the first Forgotten weapon most hunters will pick up. To find this ancient and forgotten technology, one must traverse the ocean and explore the Tribal Isles, collecting blueprints from the native tribes and looting the other components from the mighty beasts that lurk in the depths of the Jungle of Dread.
-The Ancient Box is primarily used to hunt for the Acolyte in the Acolyte Realm. While this does make its use quite limited, the need to use Runic Cheese in the Acolyte Realm and the sheer difficulty of this challenge makes the weapon worthwhile regardless. Despite being this old (canonically), the Ancient Box Trap has had a number of minor changes since its introduction in 2009, most of them revolving around making it easier to access.
+## Should you get Ancient Box Trap?
 
-### Alternatives
-
-Technically speaking, the Ancient Box Trap has an alternative, but this alternative is the most forgotten weapon in the game for a reason. The Forgotten Pressure Plate can be bought from the shop in Bristle Woods, but is significantly worse and requires a number of Runes to purchase. This makes the weapon very far from worthwhile, in comparison to the Ancient Box Trap that you essentially pick up 'along the way'. Its one very small strong point is that it is available slightly earlier for purchase, but by the time you have the resources to actually buy it you should just pick up the Ancient Box Trap anyway.
-
-### Upgrades
-
-The Ancient Box Trap is a good Forgotten weapon for a long time, because you'll be able to forget that it exists for an equally long time. After using it to catch your first Acolyte (and optionally first Eclipse, very optional but 'because I have to'-shoutout to Balack for being even worse), it gets put back on the shelf for an extended period of time. By the time you need it again, you'll already have picked up the next Forgotten weapon: the [Scarlet Ember Root Trap](/weapons/forgotten/sert).
+Yes, No, alternatives, etc...

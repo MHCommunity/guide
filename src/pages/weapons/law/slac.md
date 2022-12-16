@@ -1,7 +1,37 @@
 ---
-title: S.L.A.C
-image: /images/weapon-thumbnails/s.l.a.c.png
+title: S.L.A.C.
+image: /images/weapon-thumbnails/slac.png
+skipToc: true
 ---
+
+{% weapon
+ name="S.L.A.C."
+ src="/images/weapons/slac.png"
+ description="The Spring-Loaded Attack Cactus (S.L.A.C.) is an attempt to harness the lawless wilds of the Old West itself in order to tame the Wild Bunch mice. As the mice nibble away at the piece of cheese, they feel at ease in their natural environment. Most mice in Varmint Valley enjoy eating their meals by the shade of a cactus plant, and are mostly unaware that the S.L.A.C. is more than just a cactus."
+/%}
+
+{% weapon-stats
+ power="650"
+ powerBonus="5%"
+ luck="0"
+ attraction="10%"
+ powerType="Law"
+ title="Lord / Lady"
+/%}
+
+## Acquiring S.L.A.C.
+
+The S.L.A.C. can be bought from the Trapsmith in the *location* for ...
+
+- Tip one on how to get the needed resource
+
+## Info and Trivia
+
+Something ...
+
+## Should you get S.L.A.C.?
+
+Yes, No, alternatives, etc...
 
 ## S.L.A.C.
 
@@ -14,7 +44,8 @@ image: /images/weapon-thumbnails/s.l.a.c.png
 | **Power**              | 650       | **Luck**            | 0            |
 | **Power Bonus**        | 5%        | **AttractionBonus** | 0%           |
 | **Cheese Effect**      | No Effect | **Powertype**       | Law          |
-| **Acquisition Method** | Trapsmith | **Cost**            | 150,000 gold |
+| **Acquisition Method** | Trapsmith | **Cost**            | 150,000 gold"
+/%}
 
 ### Weapon Acquisition
 

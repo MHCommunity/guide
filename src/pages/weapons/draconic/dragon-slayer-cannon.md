@@ -1,53 +1,34 @@
 ---
 title: Dragon Slayer Cannon
 image: /images/weapon-thumbnails/dragon-slayer-cannon.png
+skipToc: true
 ---
 
-## Dragon Slayer Cannon
+{% weapon
+ name="Dragon Slayer Cannon"
+ src="/images/weapons/dragon-slayer-cannon.png"
+ description="A devastating machine created with an incredibly rare rib of a terrifying dragon, housed in a heat-resistant shell. It draws power from the Kalor'ignis Rib stored within, focusing it in its centre, building a giant bubble of Draconic energy that expands outwards. Once it has expanded beyond critical mass, the outer blades begin to spin at an incredible velocity, shaping the energy from spherical to cylindrical and finally to a sharpened point. Once the formed mass of energy comes into contact with the point of the firing pin, it explodes forwards in an awesome beam of Draconic energy. Enhanced by dark dragon magic drawn from Ful'Mina's powerful tooth, its powerful energy can blast an additional Dragon Scale from the clutches of its victims."
+/%}
 
-Gathering the mysterious from all around Ganwnia
+{% weapon-stats
+ power="10,000"
+ powerBonus="35%"
+ luck="25"
+ attraction="10%"
+ powerType="Draconic"
+ title="Grand Duke / Duchess"
+/%}
 
-<img src="/assets/images/weapons/dsc.png" alt="Shiny Lightning Spear Slinger" width="600">
+## Acquiring Dragon Slayer Cannon
 
-|                        |           |                     |                                                                          |
-| ---------------------- | --------- | ------------------- | ------------------------------------------------------------------------ |
-| **Power**              | 10,000    | **Luck**            | 25                                                                       |
-| **Power Bonus**        | 35%       | **AttractionBonus** | 10%                                                                      |
-| **Cheese Effect**      | No Effect | **Powertype**       | Draconic                                                                 |
-| **Acquisition Method** | Crafting  | **Cost**            | Oh boy a lot <br> this isn't fit for a table, I'm sorry. See below here. |
+The Dragon Slayer Cannon can be bought from the Trapsmith in the *location* for ...
 
-### Weapon Acquisition
+- Tip one on how to get the needed resource
 
-The Dragon Slayer Cannon is crafted in multiple stages:
+## Info and Trivia
 
-- The Dragon Slayer Cannon Chassis, requiring 310 Cork Bark, 15 Congealed Rubber, 30 Geyserite, 60 Tungsten and 300 Tiny Platinum Bars
-- The Imbued Dragon Slayer Cannon Chassis, requiring the Chassis from earlier, 1 Ful'Mina's Tooth, 2 Ember Roots and 2 Ember Stones
-- The Dragon Slayer Cannon itself, requiring the Imbued Dragon Slayer Cannon Chassis, 1 Kalor'ignis Rib, 1 Chrome Storm Wrought Ballista Parts and 415 Dragon Scale.
+Something ...
 
-These can be acquired in the following ways:
+## Should you get Dragon Slayer Cannon?
 
-- Dragon Scales can be looted from Storm Dragons, by arming Dragonvine Cheese in Moussu Picchu.
-- Chrome Storm Wrought Ballista Parts can be acquired by smashing a Chrome Storm Wrought Ballista Trap.
-- A Kalor'ignis Rib can be purchased from the Marketplace, or very rarely looted in Dragon Nests after catching Kalor'ignis of the Geyser
-- Ember Roots are dropped by Inferna, The Engulfed, by using Flamin' Queso in the Prickly Plains.
-- Ember Stones are dropped by Nachos, The Molten, by using Flamin' Queso in Canterra Quarry.
-- Ful'Mina's Tooth can be looted from Ful'Mina, The Mountain Queen. Addionally, they can be purchased for Dragon Scales in the Moussu Picchu General Store or picked up from the Marketplace.
-- Cork Bark, Congealed Rubber, Geyserite and Tungsten can be looted in Queso Geyser.
-- Tiny Platinum Bars can be bought from many General Stores.
-
-# General info and Trivia
-
-The Dragon Slayer Cannon is the most recently added Draconic weapon. It's a massive cannon. It shoots Dragons.
-The Dragon Slayer cannon is used for Queso Geyser's dragons, some Moussu Picchu hunting and the Floating Islands.
-The Dragon Slayer Cannon retains the bonus effect from the storm ballistas, providing extra Dragon Scales when hunting the Storm Dragons in Moussu Picchu.
-It's a massive cannon. What more do you want me to say?
-
-### Alternatives
-
-Draconic doesn't do alternatives.
-Although this undoubtably IS the most optional draconic trap out there. There is no content in the game that is unplayable without it. A rib may cost you an arm and a leg, so for the more casual hunter just a ballista may be enough.
-
-### Upgrades
-
-One day, my friend...
-One day...
+Yes, No, alternatives, etc...

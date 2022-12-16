@@ -1,35 +1,35 @@
 ---
 title: Net Cannon
 image: /images/weapon-thumbnails/net-cannon.png
+skipToc: true
 ---
 
-## Net Cannon
+{% weapon
+ name="Net Cannon"
+ src="/images/weapons/net-cannon.png"
+ description="Using powerful pneumatics this cannon fires a high tension net at an incredible velocity making it capable of catching the quick mice that lurk in and around water. The net cannon is extremely loud, proper ear protection is recommended."
+/%}
 
-This was made before T-Shirts were cool
+{% weapon-stats
+ power="3,000"
+ powerBonus="---"
+ luck="5"
+ attraction="3%"
+ cheeseEffect="Stale"
+ powerType="Hydro"
+ title="Legendary"
+/%}
 
-<img src="/assets/images/weapons/nc.png" alt="Better than the brut cannon" width="600">
+## Acquiring Net Cannon
 
-|                        |           |                     |              |
-| ---------------------- | --------- | ------------------- | ------------ |
-| **Power**              | 3,000     | **Luck**            | 5            |
-| **Power Bonus**        | 0%        | **AttractionBonus** | 3%           |
-| **Cheese Effect**      | Stale     | **Powertype**       | Hydro        |
-| **Acquisition Method** | Trapsmith | **Cost**            | 450,000 gold |
+The Net Cannon can be bought from the Trapsmith in the *location* for ...
 
-### Weapon Acquisition
+- Tip one on how to get the needed resource
 
-The Net Cannon can be bought from the Trapsmith from a variety of locations, most importantly on the S.S. Huntington IV, the Elub Shore, Cape Clawed and the King's Gauntlet for 450,000 gold.
+## Info and Trivia
 
-### General Information
+Something ...
 
-The Ancient Spear Gun and Net Cannon are the two first hydro weapons most hunters touch. The Net Cannon's functionality is quite short-lived: it can have some value when first conquering the S.S. Huntington, and then for some early Elub Shore/Shell cheese hunting towards the Ancient Spear needed to upgrade it. This shortlivedness is also why it didn't get its own page.
-The Ancient Spear Gun has use for a bit longer, being useful for farming the rest of the Elub Shore, the Seasonal Garden and some use at the Slushy Shoreline to get the needed materials for the next hydro trap: the Steam Laser.
+## Should you get Net Cannon?
 
-### Alternatives
-
-While there are some whacky ways to find alternatives for a hydro weapon at this stage, none of them are solid enough alternatives to consider recommending them.
-The Net Cannon can be swapped out for the Harpoon Gun, considering both provide the Launcher Parts needed for the Ancient Spear Gun, but the Net Cannon is generally considered strictly superior.
-
-### Upgrades
-
-After getting the Ancient Spear Gun, the next Hydro weapon to aim for is the [Steam Laser](/weapons/hydro/slmk). With some excessive shenanigans, this weapon could be skipped in which case the next step is the [Queso Fount Trap](/weapons/hydro/qft), but this is not recommended.
+Yes, No, alternatives, etc...

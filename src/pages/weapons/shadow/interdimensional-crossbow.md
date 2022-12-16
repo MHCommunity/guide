@@ -1,38 +1,39 @@
 ---
 title: Interdimensional Crossbow
 image: /images/weapon-thumbnails/interdimensional-crossbow.png
+skipToc: true
 ---
 
-## Interdimensional Crossbow
+{% weapon
+ name="Interdimensional Crossbow"
+ src="/images/weapons/interdimensional-crossbow.png"
+ description="These finely-tuned crossbows create an interdimensional network between all other Interdimensional Crossbow Traps in existence.
 
-... of a Ghostly Rodentfilled Ship?
+In synchronization with each other, once one of the traps detects a mouse, each of the other traps opens a portal to the offending location so that they may aid by opening fire upon the same target at once!
 
-<img src="/assets/images/weapons/ict.png" alt="Interdimensional Crossbow's Image" width="600">
+It makes you wonder why all traps aren't made this way!"
+/%}
 
-|                        |           |                     |                                                                         |
-| ---------------------- | --------- | ------------------- | ----------------------------------------------------------------------- |
-| **Power**              | 4,500     | **Luck**            | 18                                                                      |
-| **Power Bonus**        | 15%       | **AttractionBonus** | 15%                                                                     |
-| **Cheese Effect**      | Fresh     | **Powertype**       | Shadow                                                                  |
-| **Acquisition Method** | Trapsmith | **Cost**            | 5,360,000 gold <br> 10 Silver Bolts <br> 25 Bloodstone <br> 100 Howlite |
+{% weapon-stats
+ power="4,500"
+ powerBonus="15%"
+ luck="18"
+ attraction="15%"
+ cheeseEffect="Fresh"
+ powerType="Shadow"
+ title="Baron / Baroness"
+/%}
 
-### Weapon Acquisition
+## Acquiring Interdimensional Crossbow
 
-The Interdimensional Crossbow can be purchased from the Trapsmith in Fort Rox for 5,360,000 gold, 10 Silver Bolts, 25 Bloodstone and 100 Howlite.
+The Interdimensional Crossbow can be bought from the Trapsmith in the *location* for ...
 
-- Howlite and Bloodstone are two of the core resources of Fort Rox, dropping during the night. A hunter will likely be more aware of these items after going through Fort Rox.
-- Silver Bolts can be purchased from the Fort Rox General Store for 50 Dawn Dust and the Marketplace. It also can be dropped by the Monster of the Meteor during Fort Rox' Dawn stage and the Heart of the Meteor. The conventional approach to acquiring these is using either the marketplace or farming up the needed dawn dust.
+- Tip one on how to get the needed resource
 
-### General Info and Trivia
+## Info and Trivia
 
-The Interdimensional Crossbow is Fort Rox' Shadow weapon and the second "must-get" Shadow weapon. It is primarily used in Fort Rox itself, the Sand Dunes, Canterra Quarry and sometimes Moussu Picchu.
-There is a different weapon on a similar level as the Crossbow in the Clockwork Portal. Before the release of Fort Rox, the Clockwork Portal was considered the go-to Shadow weapon for that stage of the game. The reason it is not further mentioned in this guide is because it is a direct side-grade that is considered significantly more difficult to get. As a result, the Interdimensional Crossbow is the go-to meta Shadow weapon for the middle-game. Additionally, the Crossbow can be acquired with minimal Shadow usage, whereas the Clockwork Portal does require quite a bit of hunting with Shadow weapons.
-The Interdimensional Crossbow had a Limited Edition upgrade during the 2017 Great Winter Hunt in the Goldfrost Crossbow Trap. Unfortunately, the Goldfrost Honing Crystal needed to craft this upgrade could only be acquired during this Great Winter Hunt event.
+Something ...
 
-### Alternatives
+## Should you get Interdimensional Crossbow?
 
-The Interdimensional Crossbow has an alternative in the Clockwork Portal, which can be acquired in Sandtail Desert.
-
-### Upgrades
-
-After the Interdimensional Crossbow, the next shadow weapon is the [Temporal Turbine](/weapons/shadow/tt), which then upgrades into the [Chrome Temporal Turbine](/weapons/shadow/ctt).
+Yes, No, alternatives, etc...

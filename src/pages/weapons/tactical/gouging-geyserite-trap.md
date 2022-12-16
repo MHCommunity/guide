@@ -1,37 +1,37 @@
 ---
 title: Gouging Geyserite Trap
 image: /images/weapon-thumbnails/gouging-geyserite-trap.png
+skipToc: true
 ---
 
-## Gouging Geyserite Trap
+{% weapon
+ name="Gouging Geyserite Trap"
+ src="/images/weapons/gouging-geyserite-trap.png"
+ description="A devious canopy of Amber Queso stalactites and stalagmites await any hungry mice that approach this trap. Once a mouse takes a sip of cheese, the resonating sound from the slurp bounces off of the back of the cave wall and begins to vibrate the stalactites overhead, causing them to dislodge and trap the mouse in a cage of fallen queso.
 
-Where is that gouging geyser now?
-<img src="/assets/images/weapons/ggt.png" alt="I was expecting this trap to be hydro tbh" width="600">
+The fallen shards melt back into the reservoir beneath and get pulled back up into the canopy to slowly drip and form new stalactites. A completely self-renewable trap system!"
+/%}
 
-|                        |           |                     |                                                                                          |
-| ---------------------- | --------- | ------------------- | ---------------------------------------------------------------------------------------- |
-| **Power**              | 9,000     | **Luck**            | 23                                                                                       |
-| **Power Bonus**        | 20%       | **AttractionBonus** | 10%                                                                                      |
-| **Cheese Effect**      | Fresh     | **Powertype**       | Tactical                                                                                 |
-| **Acquisition Method** | Trapsmith | **Cost**            | 13,000,000 gold <br> 1,000 Solidified Amber Queso <br> 150 Nachore <br> 3 Thermal Chisel |
+{% weapon-stats
+ power="9,000"
+ powerBonus="20%"
+ luck="23"
+ attraction="10%"
+ cheeseEffect="Fresh"
+ powerType="Tactical"
+ title="Count / Countess"
+/%}
 
-### Weapon Acquisition
+## Acquiring Gouging Geyserite Trap
 
-The Gouging Geyserite Trap can be purchased in the Queso Geyser Trapsmith for 13,000,000 gold, 1,000 Solidified Amber Queso, 150 Nachore and 3 Thermal Chisels.
+The Gouging Geyserite Trap can be bought from the Trapsmith in the *location* for ...
 
-- Solidified Amber Queso can be acquired from nests opened after any Eruption in Queso Geyser.
-- Nachore is dropped by mice in Canterra Quarry.
-- Thermal Chisels can be found in Epic nests as a drop from Kalor'Ignis in Queso Geyser or bought from the Queso Geyser General Store. The recommended acquisition method, however, is the Marketplace, where they are incredibly cheap by comparison.
+- Tip one on how to get the needed resource
 
-### General Info and Trivia
+## Info and Trivia
 
-The Gouging Geyserite Trap is one of the weapons introduced with the release of the Queso Geyser. It is intended as an alternative for the Chrome Sphynx Wrath, which outdoes it in stats but has a significantly higher cost. Its target use areas are the Fiery Warpath, potentially Muridae Market and, if in small enough quantities, the Floating Islands.
-The Gouging Geyserite Trap is generally considered the lowest impact Queso Geyser trap, but has often been overlooked due to the lack of Tactical use between Queso Geyser and the Floating Islands. It is currently unclear how the release of the Folklore Forest has impacted or will impact this.
+Something ...
 
-### Alternatives
+## Should you get Gouging Geyserite Trap?
 
-This wepaon can be considered an alternative for the Chrome Sphynx Wrath, trading in some stats for not needing a chrome kit and a decently cheaper price. Due to the nature of the current lategame, it is difficult to conclusively recommend one over the other, considering both have fairly little use untill either the Folklore Forest (the current latest expansion) or the Floating Islands, where Tactical isn't all that appealing untill you upgrade your Tactical setup either way.
-
-# Upgrades
-
-The Gouging Geyserite Trap has one upgrade, namely the current Best in Slot Tacitcal Weapon: the [Slumbering Boulder Trap](/weapons/tactical/sbt).
+Yes, No, alternatives, etc...

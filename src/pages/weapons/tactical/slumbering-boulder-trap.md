@@ -1,55 +1,37 @@
 ---
 title: Slumbering Boulder Trap
 image: /images/weapon-thumbnails/slumbering-boulder-trap.png
+skipToc: true
 ---
 
-## Slumbering Boulder Trap
+{% weapon
+ name="Slumbering Boulder Trap"
+ src="/images/weapons/slumbering-boulder-trap.png"
+ description="This formidable, fully-powered contraption has the ability to resonate subharmonic frequencies that only mice can hear. It uses this melodious stonesong to lure its prey hypnotically into a secluded location deep within a rock formation. Once the mesmerized mouse is within reach, the trap snatches it with its mighty stone pincers and encases it into a nearby boulder. It then uses its ultra-high powered laser tail to carve a slab out of the boulder so that it can carry the encased mouse and deliver it to the hunter on a stone platter.
 
-Sleepless rock of the floating country
+It is said that the trap resonates a unique stonesong depending on the mouse but all the hunter ever hears is rock. Over time, some hunters have grown quite fond of this strange but compelling "rock music"."
+/%}
 
-<img src="/assets/images/weapons/sbt.png" alt="scary sleeping bug" width="600">
+{% weapon-stats
+ power="12,825"
+ powerBonus="25%"
+ luck="40"
+ attraction="15%"
+ cheeseEffect="Insanely Stale"
+ powerType="Tactical"
+ title="Archduke / Archduchess"
+/%}
 
-|                        |                |                     |                                                                                                                                                                    |
-| ---------------------- | -------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Power**              | 12,850         | **Luck**            | 40                                                                                                                                                                 |
-| **Power Bonus**        | 25%            | **AttractionBonus** | 15%                                                                                                                                                                |
-| **Cheese Effect**      | Insanely Stale | **Powertype**       | Tactical                                                                                                                                                           |
-| **Acquisition Method** | Trapsmith      | **Cost**            | 45,250,000 gold <br> 6 Sky Sprocket <br> 6 Skysoft Silk <br> 6 Enchanted Wing <br> 6 Cloudstone Bangle <br> 115 Adorned Empyrean Jewels <br> 1 Sleeping Stone Trap |
+## Acquiring Slumbering Boulder Trap
 
-### Weapon Acquisition
+The Slumbering Boulder Trap can be bought from the Trapsmith in the *location* for ...
 
-The Slumbering Boulder Trap can be purchased from the Floating Islands Trapsmith for 45,250,000 gold, 6 Sky Sprocket, 6 Skysoft Silk, 6 Enchanted Wing, 6 Cloudstone Bangle, 145 Adorned Empyrean Jewels and 1 Sleeping Stone Trap.
+- Tip one on how to get the needed resource
 
-- Sky Sprockets, Skysoft Silk, Enchanted Wings and Cloudstone Bangles are dropped by the Paragons in the Floating Islands, and the Empyrean Empress in the Sky Palace.
-- Adorned Empyrean Jewels can be dropped by various Treasure Troves and Treasure Chests in the Floating Islands, dropped by the Empyrean Empress, and bought from the Floating Islands' Trapsmith or the Marketplace.
-- The 1 Sleeping Stone Trap can be bought from the Floating Islands Trapsmith and will be explained below. This weapon is required to purchase the Slumbering Boulder Trap, but will **NOT** be consumed.
+## Info and Trivia
 
-## Requirement: Sleeping Stone Trap
+Something ...
 
-<img src="/assets/images/weapons/sst.png" alt="Sleepy Stagbeetle Trap" width="600">
+## Should you get Slumbering Boulder Trap?
 
-|                        |            |                     |                                                                                                        |
-| ---------------------- | ---------- | ------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Power**              | 7,475      | **Luck**            | 32                                                                                                     |
-| **Power Bonus**        | 15%        | **AttractionBonus** | 10%                                                                                                    |
-| **Cheese Effect**      | Very Stale | **Powertype**       | Tactical                                                                                               |
-| **Acquisition Method** | Trapsmith  | **Cost**            | 22,250,000 gold <br> 6 Sky Sprocket <br> 6 Skysoft Silk <br> 6 Enchanted Wing <br> 6 Cloudstone Bangle |
-
-### Weapon Acquisition
-
-The Sleeping Stone Trap can be purchased from the Floating Islands Trapsmith for 22,250,000 gold, 6 Sky Sprocket, 6 Skysoft Silk, 6 Enchanted Wing and 6 Cloudstone Bangle
-
-- Sky Sprockets, Skysoft Silk, Enchanted Wings and Cloudstone Bangles are dropped by the Paragons in the Floating Islands, and the Empyrean Empress in the Sky Palace.
-
-### General Info and Trivia
-
-The Slumbering Boulder Trap is the current best in slot Tactical weapon in the game. It is acquired in the Floating Islands, and is primarily used in both the Foreword Farm and the Floating Islands. It is currently up there as one of, if not the, most expensive traps in the game (somewhat depending on marketplace tendencies) and carries along with it the stats to justify this.
-
-### Alternatives
-
-The Slumbering Boulder Trap is the current Best in Slot Tactical weapon in the game. There are no upgrades nor alternatives.
-
-# Upgrades
-
-One day, my friend...
-One day...
+Yes, No, alternatives, etc...

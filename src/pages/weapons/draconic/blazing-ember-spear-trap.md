@@ -1,38 +1,35 @@
 ---
 title: Blazing Ember Spear Trap
 image: /images/weapon-thumbnails/blazing-ember-spear-trap.png
+skipToc: true
 ---
 
-## Blazing Ember Spear Trap
+{% weapon
+ name="Blazing Ember Spear Trap"
+ src="/images/weapons/blazing-ember-spear-trap.png"
+ description="A mighty Ember Root grows atop a bed of blazing Ember Stone. Poised with a Golden Spear forged from the leaves meticulously hand-plucked from several seasons of Ember Root growth, this mighty root heats the spear to 1 degree below its melting point before hurling it with unmeasurable speed towards its target. Only the finest leaves are picked to be wrapped and hammered in order to fulfill each spear's dragon-destroying destiny."
+/%}
 
-When you take the fight against dragons to the sky (or not quite).
+{% weapon-stats
+ power="5,500"
+ powerBonus="15%"
+ luck="12"
+ attraction="10%"
+ cheeseEffect="Extremely Stale"
+ powerType="Draconic"
+ title="Count / Countess"
+/%}
 
-<img src="/assets/images/weapons/best.png" alt="blazing ember spear" width="600">
+## Acquiring Blazing Ember Spear Trap
 
-|                        |                 |                     |                                                                        |
-| ---------------------- | --------------- | ------------------- | ---------------------------------------------------------------------- |
-| **Power**              | 5,500           | **Luck**            | 12                                                                     |
-| **Power Bonus**        | 15%             | **AttractionBonus** | 10%                                                                    |
-| **Cheese Effect**      | Extremely Stale | **Powertype**       | Draconic                                                               |
-| **Acquisition Method** | Trapsmith       | **Cost**            | 1,000,000 gold <br> 4 Ember Roots <br> 8 Ember Stones <br> 500 Nachore |
+The Blazing Ember Spear Trap can be bought from the Trapsmith in the *location* for ...
 
-### Weapon Acquisition
+- Tip one on how to get the needed resource
 
-The Blazing Ember Spear Trap can be bought from the Trapsmith in Queso River, Prickly Plains and Canterra Quarry for 1,000,000 gold, 4 Ember Roots, 8 Ember Stones and 500 Nachore.
+## Info and Trivia
 
-- Ember Roots are dropped by Inferna, The Engulfed, by using Flamin' Queso in the Prickly Plains.
-- Ember Stones are dropped by Nachos, The Molten, by using Flamin' Queso in Canterra Quarry.
-- Nachore is dropped by mice in Canterra Quarry.
+Something ...
 
-### General Info and Trivia
+## Should you get Blazing Ember Spear Trap?
 
-The Blazing Ember Spear Trap is the second Draconic weapon a hunter usually runs into. It was released alongside the Queso region to be used in both Queso Geyser and the early stages of Moussu Picchu.
-At its release, the BEST was intended to close the gap between the Ice Maiden and Moussu Picchu. Shortly after, Queso Geyser was released with an entire new group of Draconic-weak mice. Despite Queso Geyser being a Count-level area, its bosses are by most considered far beyond Count-level. This makes the go-to strategy for pre-Grand Duke/Duchess hunters to not spend too much time on them and return with better equipment.
-
-### Alternatives
-
-Draconic doesn't do alternatives.
-
-### Upgrades
-
-Unfortunately, the BEST is not _really_ the 'best'. The conventional path after picking it up is some optional hunting in Queso Geyser, whereafter one (indirectly) heads towards Moussu Pïcchu. Here, the upgrade you aim for is the [Chrome Storm >rought Ballista Trap](/weapons/draconic/cswb).
+Yes, No, alternatives, etc...

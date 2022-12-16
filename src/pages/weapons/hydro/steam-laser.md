@@ -18,7 +18,8 @@ Time to melt some crystalized silver
 | **Power**              | 4,200     | **Luck**            | 14                                                                  |
 | **Power Bonus**        | 8%        | **AttractionBonus** | 0%                                                                  |
 | **Cheese Effect**      | No effect | **Powertype**       | Hydro                                                               |
-| **Acquisition Method** | Trapsmith | **Cost**            | 345,000 gold <br> 4 Wire Spool <br> 4 Heating Oil <br> Frosty Metal |
+| **Acquisition Method** | Trapsmith | **Cost**            | 345,000 gold <br> 4 Wire Spool <br> 4 Heating Oil <br> Frosty Metal"
+/%}
 
 ### Weapon Acquisition
 
@@ -34,7 +35,8 @@ These 3 materials can all be looted from hunting in the Slushy Shoreline while u
 | **Power**              | 4,800     | **Luck**            | 18                                                                                                                                      |
 | **Power Bonus**        | 12%       | **AttractionBonus** | 10%                                                                                                                                     |
 | **Cheese Effect**      | Fresh     | **Powertype**       | Hydro                                                                                                                                   |
-| **Acquisition Method** | Trapsmith | **Cost**            | 1 Steam Laser Mk. I <br> 4 Bottled Cold Fusion <br> 12 Wire Spool <br> 12 Heating Oil <br> 12 Frosty Metal <br> 1 Well-Sealed Cannister |
+| **Acquisition Method** | Trapsmith | **Cost**            | 1 Steam Laser Mk. I <br> 4 Bottled Cold Fusion <br> 12 Wire Spool <br> 12 Heating Oil <br> 12 Frosty Metal <br> 1 Well-Sealed Cannister"
+/%}
 
 ### Weapon Acquisition
 
@@ -54,7 +56,8 @@ The Steam Laser Mk. II can be purchased from the Trapsmith in the Slushy Shoreli
 | **Power**              | 4,800     | **Luck**            | 18                                           |
 | **Power Bonus**        | 12%       | **AttractionBonus** | 10%                                          |
 | **Cheese Effect**      | Fresh     | **Powertype**       | Hydro                                        |
-| **Acquisition Method** | Trapsmith | **Cost**            | 1 Steam Laser Mk. II Parts <br> 1 Steam Nine |
+| **Acquisition Method** | Trapsmith | **Cost**            | 1 Steam Laser Mk. II Parts <br> 1 Steam Nine"
+/%}
 
 ### Weapon Acquisition
 

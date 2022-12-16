@@ -1,40 +1,35 @@
 ---
 title: Queso Fount Trap
 image: /images/weapon-thumbnails/queso-fount-trap.png
+skipToc: true
 ---
 
-## Queso Fount Trap
+{% weapon
+ name="Queso Fount Trap"
+ src="/images/weapons/queso-fount-trap.png"
+ description="A bubbling fount of molten queso which is superheated faster than it can vaporize. The surface tension is so high that even the slightest vibration can trigger an explosion! The specially crafted spouts focus the eruption towards the placement of the cheese on the trap hoping to cover any mice that wander too close."
+/%}
 
-Hangover of Fishfellows Swimming Differently
-<mark> This weapon is not a part of the regular progression path and is generally considered 'optional'.</mark>
+{% weapon-stats
+ power="11,000"
+ powerBonus="30%"
+ luck="25"
+ attraction="10%"
+ cheeseEffect="Stale"
+ powerType="Hydro"
+ title="Count / Countess"
+/%}
 
-<img src="/assets/images/weapons/qft.png" alt="wdym that's not water" width="600">
+## Acquiring Queso Fount Trap
 
-|                        |           |                     |                                                                                              |
-| ---------------------- | --------- | ------------------- | -------------------------------------------------------------------------------------------- |
-| **Power**              | 11,000    | **Luck**            | 25                                                                                           |
-| **Power Bonus**        | 30%       | **AttractionBonus** | 10%                                                                                          |
-| **Cheese Effect**      | Stale     | **Powertype**       | Hydro                                                                                        |
-| **Acquisition Method** | Trapsmith | **Cost**            | 12,000,000 gold <br> 500 Solidified Amber Queso <br> 75 Nachore <br> 3 Queso Thermal Springs |
+The Queso Fount Trap can be bought from the Trapsmith in the *location* for ...
 
-### Weapon Acquisition
+- Tip one on how to get the needed resource
 
-The Queso Fount Trap can be purchased in the Queso Geyser Trapsmith for 12,000,000, 500 Solidified Amber Queso, 75 Nachore and 3 Queso Thermal Springs.
+## Info and Trivia
 
-- Solidified Amber Queso can be acquired from nests opened after any Eruption in Queso Geyser.
-- Nachore is dropped by mice in Canterra Quarry.
-- Queso Thermal Springs can be found in Epic nests as a drop from Kalor'Ignis in Queso Geyser or bought from the Queso Geyser General Store. The recommended acquisition method, however, is the Marketplace, where they are incredibly cheap by comparison.
+Something ...
 
-### General info & trivia
+## Should you get Queso Fount Trap?
 
-The Queso Fount Trap is one of the weapons introduced in Queso Geyser, originally introduced as an alternative for the Hydro weapon from the Sandtail Desert. Thanks to its high stats and ease of acquisition, it quickly became the most impactful weapon from this content update next to the Dragonslayer Cannon, which is an actual best in slot weapon. While the School of Sharks is still preferred, the Queso Fount Trap practically rivaled it in most situations, making it an appealing weapon to go for untill a hunter was done with the rest of the game and took the time to head to the Sunken City.
-The Queso Fount Trap, depending on its moment of acquisition, can have a wide range of use cases. There are some paths where hunters would get it early and, after neglecting physical for a while, would clear the entire Fiery Warpath with it. More conventional paths will use it for the Living Garden, the early parts of the Fungal Cavern, Gnawnia Rift and eventually the Sunken City to pick up the School of Sharks. A hunter pushing their luck could even extend the use to the Floating Islands and eventually the Prologue Pond.
-
-### Alternatives
-
-This weapon is already an alternative, to the [School of Sharks](/weapons/hydro/csos) which can directly be upgraded into the Chrome School of Sharks. It is generally considered an optional upgrade because they are unlocked at a similar stage of the game, but the significantly higher cost of the School of Sharks and the length to which the Queso Fount Trap can be used gives the weapon a meaningful appeal.
-
-### Upgrades
-
-From the Queso Fount Trap, there is only one upgrade left: the [Chrome School of Sharks](/weapons/hydro/csos). While this upgrade has no direct 'must get before'-points in the game right now, it is the current best in slot Hydro weapon so should be an eventual goal for all hunters.
-The most recent addition to the game in the Folklore Forest, the Prologue Pond, is currently considered 'okay' with a Queso Fount Trap, but the Chrome School of Sharks would still be very strongly recommended for the higher tier mice there.
+Yes, No, alternatives, etc...

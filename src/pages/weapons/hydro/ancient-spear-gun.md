@@ -1,24 +1,35 @@
 ---
 title: Ancient Spear Gun
 image: /images/weapon-thumbnails/ancient-spear-gun.png
+skipToc: true
 ---
 
-## Ancient Spear Gun
+{% weapon
+ name="Ancient Spear Gun"
+ src="/images/weapons/ancient-spear-gun.png"
+ description="A launcher rigged to fire an ancient spear of the Elub tribe. The glowing spear possesses magical homing properties that make for an incredibly accurate shot."
+/%}
 
-This was made after T-Shirts were cool and may have lead to multiple lawsuits if it was used the same way.
+{% weapon-stats
+ power="3,600"
+ powerBonus="5%"
+ luck="12"
+ attraction="10%"
+ cheeseEffect="Fresh"
+ powerType="Hydro"
+ title="Legendary"
+/%}
 
-<img src="/assets/images/weapons/asg.png" alt="Welcome to mousehunt, our only gun is a water gun" width="600">
+## Acquiring Ancient Spear Gun
 
-|                        |           |                     |                                                         |
-| ---------------------- | --------- | ------------------- | ------------------------------------------------------- |
-| **Power**              | 3,600     | **Luck**            | 12                                                      |
-| **Power Bonus**        | 5%        | **AttractionBonus** | 10%                                                     |
-| **Cheese Effect**      | Fresh     | **Powertype**       | Hydro                                                   |
-| **Acquisition Method** | Trapsmith | **Cost**            | 160,000 gold <br> 1 Ancient Spear <br> 1 Launcher Parts |
+The Ancient Spear Gun can be bought from the Trapsmith in the *location* for ...
 
-### Weapon Acquisition
+- Tip one on how to get the needed resource
 
-The Ancient Spear Gun can be purchased from the Cape Clawed and Elub Shore Trapsmith for 160,000 gold, 1 Ancient Spear and 1 Launcher Parts.
+## Info and Trivia
 
-- An Ancient Spear can be looted from an Elder Mouse by using Shell Cheese in Cape Clawed.
-- Launcher Parts can be acquired by smashing a Net Cannon or a Harpoon Gun.
+Something ...
+
+## Should you get Ancient Spear Gun?
+
+Yes, No, alternatives, etc...
