@@ -1,6 +1,5 @@
 ---
 title: Forgotten Pressure Plate Trap
-image: /images/weapon-thumbnails/forgotten-pressure-plate-trap.png
 skipToc: true
 ---
 

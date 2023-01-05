@@ -1,6 +1,5 @@
 ---
 title: Sphynx Wrath
-image: /images/weapon-thumbnails/sphynx-wrath.png
 skipToc: true
 ---
 

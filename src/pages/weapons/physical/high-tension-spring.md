@@ -1,6 +1,5 @@
 ---
 title: High Tension Spring
-image: /images/weapon-thumbnails/high-tension-spring.png
 skipToc: true
 ---
 

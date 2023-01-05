@@ -1,6 +1,5 @@
 ---
 title: Interdimensional Crossbow
-image: /images/weapon-thumbnails/interdimensional-crossbow.png
 skipToc: true
 ---
 

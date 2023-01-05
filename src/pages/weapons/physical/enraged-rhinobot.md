@@ -1,6 +1,5 @@
 ---
 title: Enraged RhinoBot
-image: /images/weapon-thumbnails/enraged-rhinobot.png
 skipToc: true
 ---
 

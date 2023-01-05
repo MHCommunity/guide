@@ -1,6 +1,5 @@
 ---
 title: Arcane Capturing Rod Of Never Yielding Mystery
-image: /images/weapon-thumbnails/arcane-capturing-rod-of-never-yielding-mystery.png
 skipToc: true
 ---
 

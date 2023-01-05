@@ -1,6 +1,5 @@
 ---
 title: Chrome Phantasmic Oasis Trap
-image: /images/weapon-thumbnails/chrome-phantasmic-oasis-trap.png
 skipToc: true
 ---
 

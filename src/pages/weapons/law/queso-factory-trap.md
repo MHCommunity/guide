@@ -1,6 +1,5 @@
 ---
 title: Queso Factory Trap
-image: /images/weapon-thumbnails/queso-factory-trap.png
 skipToc: true
 ---
 

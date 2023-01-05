@@ -1,6 +1,5 @@
 ---
 title: RhinoBot
-image: /images/weapon-thumbnails/rhinobot.png
 skipToc: true
 ---
 

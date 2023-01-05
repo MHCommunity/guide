@@ -1,6 +1,5 @@
 ---
 title: Venus Mouse Trap
-image: /images/weapon-thumbnails/venus-mouse-trap.png
 skipToc: true
 ---
 

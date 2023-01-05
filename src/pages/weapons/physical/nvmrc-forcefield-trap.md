@@ -1,6 +1,5 @@
 ---
 title: NVMRC Forcefield Trap
-image: /images/weapon-thumbnails/nvmrc-forcefield-trap.png
 skipToc: true
 ---
 

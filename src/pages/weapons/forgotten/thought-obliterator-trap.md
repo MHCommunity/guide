@@ -1,6 +1,5 @@
 ---
 title: Thought Obliterator Trap
-image: /images/weapon-thumbnails/thought-obliterator-trap.png
 skipToc: true
 ---
 

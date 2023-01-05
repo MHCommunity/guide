@@ -1,6 +1,5 @@
 ---
 title: Chrome Oasis Water Node Trap
-image: /images/weapon-thumbnails/chrome-oasis-water-node-trap.png
 skipToc: true
 ---
 

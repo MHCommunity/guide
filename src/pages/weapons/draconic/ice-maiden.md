@@ -1,6 +1,5 @@
 ---
 title: Ice Maiden
-image: /images/weapon-thumbnails/ice-maiden.png
 skipToc: true
 ---
 

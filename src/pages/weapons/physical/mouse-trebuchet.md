@@ -1,6 +1,5 @@
 ---
 title: Mouse Trebuchet
-image: /images/weapon-thumbnails/mouse-trebuchet.png
 skipToc: true
 ---
 

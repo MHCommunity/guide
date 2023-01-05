@@ -1,6 +1,5 @@
 ---
 title: Blackstone Pass Trap
-image: /images/weapon-thumbnails/blackstone-pass-trap.png
 skipToc: true
 ---
 

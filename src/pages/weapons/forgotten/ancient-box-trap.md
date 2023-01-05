@@ -1,6 +1,5 @@
 ---
 title: Ancient Box Trap
-image: /images/weapon-thumbnails/ancient-box-trap.png
 skipToc: true
 ---
 

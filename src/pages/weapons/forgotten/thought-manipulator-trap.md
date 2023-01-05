@@ -1,6 +1,5 @@
 ---
 title: Thought Manipulator Trap
-image: /images/weapon-thumbnails/thought-manipulator-trap.png
 skipToc: true
 ---
 

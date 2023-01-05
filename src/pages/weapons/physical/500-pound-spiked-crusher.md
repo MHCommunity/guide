@@ -1,6 +1,5 @@
 ---
 title: 500 Pound Spiked Crusher
-image: /images/weapon-thumbnails/500-pound-spiked-crusher.png
 skipToc: true
 ---
 

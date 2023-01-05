@@ -1,12 +1,11 @@
 ---
 title: Zurreal's Folly
-image: /images/weapon-thumbnails/zurreal's-folly.png
 skipToc: true
 ---
 
 {% weapon
  name="Zurreal's Folly"
- src="/images/weapons/zurreal's-folly.png"
+ src="/images/weapons/zurreals-folly.png"
  description="This trap is the only devised tool suspected of being able to capture Zurreal the Eternal. A harmless looking bookshelf features literature designed to intrigue Zurreal, distracting him from the trap hidden behind the shelf.
 
 The traps's design is complex, but it's utility is simple: Drain all magical and electrical energy in the immediate area. The trap is powered by undead ectoplasm to remain active while using augmented metal netting and runic rocks to open a small hole to another dimension and vacuum all other energy far away. This trap should be enough to knock Zurreal's walking throne out of commission, leaving him mostly helpless.

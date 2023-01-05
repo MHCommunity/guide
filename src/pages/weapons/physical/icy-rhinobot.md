@@ -1,6 +1,5 @@
 ---
 title: Icy RhinoBot
-image: /images/weapon-thumbnails/icy-rhinobot.png
 skipToc: true
 ---
 

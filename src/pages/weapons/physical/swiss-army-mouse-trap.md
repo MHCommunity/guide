@@ -1,6 +1,5 @@
 ---
 title: Swiss Army Mouse Trap
-image: /images/weapon-thumbnails/swiss-army-mouse-trap.png
 skipToc: true
 ---
 

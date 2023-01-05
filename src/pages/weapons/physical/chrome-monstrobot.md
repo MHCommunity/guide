@@ -1,6 +1,5 @@
 ---
 title: Chrome MonstroBot
-image: /images/weapon-thumbnails/chrome-monstrobot.png
 skipToc: true
 ---
 

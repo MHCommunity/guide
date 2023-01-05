@@ -1,6 +1,5 @@
 ---
 title: Ancient Spear Gun
-image: /images/weapon-thumbnails/ancient-spear-gun.png
 skipToc: true
 ---
 

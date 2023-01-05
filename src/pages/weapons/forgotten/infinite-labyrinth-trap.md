@@ -1,6 +1,5 @@
 ---
 title: Infinite Labyrinth Trap
-image: /images/weapon-thumbnails/infinite-labyrinth-trap.png
 skipToc: true
 ---
 

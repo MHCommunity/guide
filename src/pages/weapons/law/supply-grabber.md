@@ -1,6 +1,5 @@
 ---
 title: Supply Grabber
-image: /images/weapon-thumbnails/supply-grabber.png
 skipToc: true
 ---
 

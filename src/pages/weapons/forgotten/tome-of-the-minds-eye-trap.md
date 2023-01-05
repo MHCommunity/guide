@@ -1,6 +1,5 @@
 ---
 title: Tome of the Mind's Eye Trap
-image: /images/weapon-thumbnails/tome-of-the-minds-eye-trap.png
 skipToc: true
 ---
 

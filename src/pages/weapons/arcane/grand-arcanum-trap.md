@@ -1,6 +1,5 @@
 ---
 title: Grand Arcanum Trap
-image: /images/weapon-thumbnails/grand-arcanum-trap.png
 skipToc: true
 ---
 

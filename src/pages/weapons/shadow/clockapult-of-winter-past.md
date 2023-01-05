@@ -1,6 +1,5 @@
 ---
 title: Clockapult of Winter Past
-image: /images/weapon-thumbnails/clockapult-of-winter-past.png
 skipToc: true
 ---
 

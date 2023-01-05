@@ -1,6 +1,5 @@
 ---
 title: Steam Laser Mk. II (Broken!)
-image: /images/weapon-thumbnails/steam-laser-mk.-ii-(broken!).png
 skipToc: true
 ---
 

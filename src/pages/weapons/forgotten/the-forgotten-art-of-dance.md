@@ -1,6 +1,5 @@
 ---
 title: The Forgotten Art of Dance
-image: /images/weapon-thumbnails/the-forgotten-art-of-dance.png
 skipToc: true
 ---
 

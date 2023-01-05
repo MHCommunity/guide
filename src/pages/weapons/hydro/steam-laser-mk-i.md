@@ -1,6 +1,5 @@
 ---
 title: Steam Laser Mk. I
-image: /images/weapon-thumbnails/steam-laser-mk.-i.png
 skipToc: true
 ---
 

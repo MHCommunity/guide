@@ -1,6 +1,5 @@
 ---
 title: Engine Doubler
-image: /images/weapon-thumbnails/engine-doubler.png
 skipToc: true
 ---
 

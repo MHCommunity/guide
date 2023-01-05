@@ -1,6 +1,5 @@
 ---
 title: Dimensional Chest Trap
-image: /images/weapon-thumbnails/dimensional-chest-trap.png
 skipToc: true
 ---
 

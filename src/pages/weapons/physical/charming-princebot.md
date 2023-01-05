@@ -1,6 +1,5 @@
 ---
 title: Charming PrinceBot
-image: /images/weapon-thumbnails/charming-princebot.png
 skipToc: true
 ---
 
