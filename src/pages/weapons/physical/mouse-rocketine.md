@@ -1,6 +1,5 @@
 ---
 title: Mouse Rocketine
-image: /images/weapon-thumbnails/mouse-rocketine.png
 skipToc: true
 ---
 

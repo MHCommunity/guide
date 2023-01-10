@@ -1,6 +1,5 @@
 ---
 title: Clockwork Portal Trap
-image: /images/weapon-thumbnails/clockwork-portal-trap.png
 skipToc: true
 ---
 

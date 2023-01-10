@@ -1,6 +1,5 @@
 ---
 title: Obvious Ambush Trap
-image: /images/weapon-thumbnails/obvious-ambush-trap.png
 skipToc: true
 ---
 

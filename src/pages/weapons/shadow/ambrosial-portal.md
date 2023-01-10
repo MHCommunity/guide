@@ -1,6 +1,5 @@
 ---
 title: Ambrosial Portal
-image: /images/weapon-thumbnails/ambrosial-portal.png
 skipToc: true
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Fluffy DeathBot
-image: /images/weapon-thumbnails/fluffy-deathbot.png
 skipToc: true
 ---
 

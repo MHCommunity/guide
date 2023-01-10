@@ -1,6 +1,5 @@
 ---
 title: S.L.A.C. II
-image: /images/weapon-thumbnails/s.l.a.c.-ii.png
 skipToc: true
 ---
 

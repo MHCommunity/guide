@@ -1,6 +1,5 @@
 ---
 title: Gingerbread House Surprise
-image: /images/weapon-thumbnails/gingerbread-house-surprise.png
 skipToc: true
 ---
 

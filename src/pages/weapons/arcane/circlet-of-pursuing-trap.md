@@ -1,6 +1,5 @@
 ---
 title: Circlet of Pursuing Trap
-image: /images/weapon-thumbnails/circlet-of-pursuing-trap.png
 skipToc: true
 ---
 

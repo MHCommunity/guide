@@ -1,6 +1,5 @@
 ---
 title: Mouse DeathBot
-image: /images/weapon-thumbnails/mouse-deathbot.png
 skipToc: true
 ---
 

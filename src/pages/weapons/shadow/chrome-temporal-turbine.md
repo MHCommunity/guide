@@ -1,6 +1,5 @@
 ---
 title: Chrome Temporal Turbine
-image: /images/weapon-thumbnails/chrome-temporal-turbine.png
 skipToc: true
 ---
 

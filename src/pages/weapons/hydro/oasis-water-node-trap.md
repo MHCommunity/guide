@@ -1,6 +1,5 @@
 ---
 title: Oasis Water Node Trap
-image: /images/weapon-thumbnails/oasis-water-node-trap.png
 skipToc: true
 ---
 

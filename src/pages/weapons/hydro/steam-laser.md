@@ -1,6 +1,6 @@
 ---
 title: Steam Laser
-image: /images/weapon-thumbnails/steam-laser.png
+skipToc: true
 ---
 
 ## Steam Laser

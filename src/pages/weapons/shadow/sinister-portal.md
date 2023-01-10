@@ -1,6 +1,5 @@
 ---
 title: Sinister Portal
-image: /images/weapon-thumbnails/sinister-portal.png
 skipToc: true
 ---
 

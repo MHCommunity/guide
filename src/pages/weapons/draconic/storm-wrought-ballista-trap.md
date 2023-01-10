@@ -1,6 +1,5 @@
 ---
 title: Storm Wrought Ballista Trap
-image: /images/weapon-thumbnails/storm-wrought-ballista-trap.png
 skipToc: true
 ---
 

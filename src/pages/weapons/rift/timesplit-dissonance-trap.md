@@ -1,6 +1,5 @@
 ---
 title: Timesplit Dissonance Trap
-image: /images/weapon-thumbnails/timesplit-dissonance-trap.png
 skipToc: true
 ---
 

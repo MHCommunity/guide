@@ -1,6 +1,5 @@
 ---
 title: Boiling Cauldron Trap
-image: /images/weapon-thumbnails/boiling-cauldron-trap.png
 skipToc: true
 ---
 

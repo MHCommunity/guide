@@ -1,6 +1,5 @@
 ---
 title: Gorgon Trap
-image: /images/weapon-thumbnails/gorgon-trap.png
 skipToc: true
 ---
 

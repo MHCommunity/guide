@@ -1,6 +1,5 @@
 ---
 title: Reaper's Perch
-image: /images/weapon-thumbnails/reapers-perch.png
 skipToc: true
 ---
 

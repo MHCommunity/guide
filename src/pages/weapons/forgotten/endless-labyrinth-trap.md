@@ -1,6 +1,5 @@
 ---
 title: Endless Labyrinth Trap
-image: /images/weapon-thumbnails/endless-labyrinth-trap.png
 skipToc: true
 ---
 

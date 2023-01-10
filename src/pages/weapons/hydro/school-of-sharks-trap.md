@@ -1,6 +1,5 @@
 ---
 title: School of Sharks Trap
-image: /images/weapon-thumbnails/school-of-sharks-trap.png
 skipToc: true
 ---
 

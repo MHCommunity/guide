@@ -1,6 +1,5 @@
 ---
 title: Grungy Deathbot
-image: /images/weapon-thumbnails/grungy-deathbot.png
 skipToc: true
 ---
 

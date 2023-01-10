@@ -1,6 +1,5 @@
 ---
 title: Shrink Ray Trap
-image: /images/weapon-thumbnails/shrink-ray-trap.png
 skipToc: true
 ---
 

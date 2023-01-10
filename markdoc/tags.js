@@ -2,6 +2,7 @@ import { Button } from '@/components/Button'
 import { Callout } from '@/components/Callout'
 import { ComingSoon } from '@/components/ComingSoon'
 import { QuickLink, QuickLinks } from '@/components/QuickLinks'
+import { WeaponStats } from '@/components/WeaponStats'
 import Image from 'next/image'
 
 const tags = {
@@ -80,46 +81,8 @@ const tags = {
     render: ({ powerType, power, powerBonus, luck, attraction = false, cheese = false, title = false }) => (
       <div>
         <h2>Stats</h2>
-        <table>
-          <tbody>
-            <tr>
-              <td>Power Type</td>
-              <td>{powerType}</td>
-            </tr>
-            <tr>
-              <td>Power</td>
-              <td>{power}</td>
-            </tr>
-            <tr>
-              <td>Power Bonus</td>
-              <td>{powerBonus}</td>
-            </tr>
-            <tr>
-              <td>Luck</td>
-              <td>{luck}</td>
-            </tr>
-            {attraction && (
-              <tr>
-                <td>Attraction Bonus</td>
-                <td>{attraction}</td>
-              </tr>
-            )}
-            {cheese && (
-              <tr>
-                <td>Cheese Effect</td>
-                <td>{cheese}</td>
-              </tr>
-            )}
-            {title && (
-              <tr>
-                <td>Title to Equip</td>
-                <td>Knight</td>
-              </tr>
-            )}
-          </tbody>
-        </table>
+        <WeaponStats powerType={powerType} power={power} powerBonus={powerBonus} luck={luck} attraction={attraction} cheese={cheese} title={title} />
       </div>
-
     ),
   },
   'quick-links': {

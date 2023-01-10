@@ -1,6 +1,5 @@
 ---
 title: Multi-Crystal Laser
-image: /images/weapon-thumbnails/multi-crystal-laser.png
 skipToc: true
 ---
 

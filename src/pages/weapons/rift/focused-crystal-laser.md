@@ -1,6 +1,5 @@
 ---
 title: Focused Crystal Laser
-image: /images/weapon-thumbnails/focused-crystal-laser.png
 skipToc: true
 ---
 

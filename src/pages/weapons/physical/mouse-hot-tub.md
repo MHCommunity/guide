@@ -1,6 +1,5 @@
 ---
 title: Mouse Hot Tub
-image: /images/weapon-thumbnails/mouse-hot-tub.png
 skipToc: true
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Harpoon Gun
-image: /images/weapon-thumbnails/harpoon-gun.png
 skipToc: true
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Obelisk of Slumber Trap
-image: /images/weapon-thumbnails/obelisk-of-slumber-trap.png
 skipToc: true
 ---
 

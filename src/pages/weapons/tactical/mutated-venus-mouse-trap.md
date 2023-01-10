@@ -1,6 +1,5 @@
 ---
 title: Mutated Venus Mouse Trap
-image: /images/weapon-thumbnails/mutated-venus-mouse-trap.png
 ---
 
 ## Mutated Venus Mouse Trap

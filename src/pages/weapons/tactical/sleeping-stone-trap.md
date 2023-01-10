@@ -1,6 +1,5 @@
 ---
 title: Sleeping Stone Trap
-image: /images/weapon-thumbnails/sleeping-stone-trap.png
 skipToc: true
 ---
 

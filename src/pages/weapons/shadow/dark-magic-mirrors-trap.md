@@ -1,6 +1,5 @@
 ---
 title: Dark Magic Mirrors Trap
-image: /images/weapon-thumbnails/dark-magic-mirrors-trap.png
 skipToc: true
 ---
 

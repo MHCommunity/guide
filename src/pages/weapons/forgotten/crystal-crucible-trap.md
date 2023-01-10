@@ -1,6 +1,5 @@
 ---
 title: Crystal Crucible Trap
-image: /images/weapon-thumbnails/crystal-crucible-trap.png
 skipToc: true
 ---
 

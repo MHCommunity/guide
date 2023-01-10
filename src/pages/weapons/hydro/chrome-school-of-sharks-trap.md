@@ -1,6 +1,5 @@
 ---
 title: Chrome School of Sharks Trap
-image: /images/weapon-thumbnails/chrome-school-of-sharks-trap.png
 skipToc: true
 ---
 

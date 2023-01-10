@@ -1,6 +1,5 @@
 ---
 title: Temporal Turbine
-image: /images/weapon-thumbnails/temporal-turbine.png
 skipToc: true
 ---
 

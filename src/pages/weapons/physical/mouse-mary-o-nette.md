@@ -1,6 +1,5 @@
 ---
 title: Mouse Mary O'Nette
-image: /images/weapon-thumbnails/mouse-mary-o'nette.png
 skipToc: true
 ---
 

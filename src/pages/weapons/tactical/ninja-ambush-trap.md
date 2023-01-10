@@ -1,6 +1,5 @@
 ---
 title: Ninja Ambush Trap
-image: /images/weapon-thumbnails/ninja-ambush-trap.png
 skipToc: true
 ---
 

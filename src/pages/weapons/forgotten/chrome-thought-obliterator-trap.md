@@ -1,6 +1,5 @@
 ---
 title: Chrome Thought Obliterator Trap
-image: /images/weapon-thumbnails/chrome-thought-obliterator-trap.png
 skipToc: true
 ---
 

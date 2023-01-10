@@ -1,6 +1,5 @@
 ---
 title: Tacky Glue Trap
-image: /images/weapon-thumbnails/tacky-glue-trap.png
 skipToc: true
 ---
 

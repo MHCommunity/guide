@@ -1,6 +1,5 @@
 ---
 title: Mystic Pawn Pincher
-image: /images/weapon-thumbnails/mystic-pawn-pincher.png
 skipToc: true
 ---
 

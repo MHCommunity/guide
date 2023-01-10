@@ -1,6 +1,5 @@
 ---
 title: Digby DrillBot
-image: /images/weapon-thumbnails/digby-drillbot.png
 skipToc: true
 ---
 

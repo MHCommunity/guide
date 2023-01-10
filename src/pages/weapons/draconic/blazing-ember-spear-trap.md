@@ -1,6 +1,5 @@
 ---
 title: Blazing Ember Spear Trap
-image: /images/weapon-thumbnails/blazing-ember-spear-trap.png
 skipToc: true
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: S.T.I.N.G. Trap
-image: /images/weapon-thumbnails/s.t.i.n.g.-trap.png
 skipToc: true
 ---
 

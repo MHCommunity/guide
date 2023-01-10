@@ -1,6 +1,5 @@
 ---
 title: Net Cannon
-image: /images/weapon-thumbnails/net-cannon.png
 skipToc: true
 ---
 

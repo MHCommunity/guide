@@ -1,6 +1,5 @@
 ---
 title: Dragonvine Ballista Trap
-image: /images/weapon-thumbnails/dragonvine-ballista-trap.png
 skipToc: true
 ---
 

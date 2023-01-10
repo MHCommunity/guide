@@ -1,6 +1,5 @@
 ---
 title: Creepy Coffin Trap
-image: /images/weapon-thumbnails/creepy-coffin-trap.png
 skipToc: true
 ---
 

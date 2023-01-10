@@ -1,6 +1,5 @@
 ---
 title: Sandtail Sentinel
-image: /images/weapon-thumbnails/sandtail-sentinel.png
 skipToc: true
 ---
 

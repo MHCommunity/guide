@@ -1,6 +1,5 @@
 ---
 title: Scum Scrubber
-image: /images/weapon-thumbnails/scum-scrubber.png
 skipToc: true
 ---
 

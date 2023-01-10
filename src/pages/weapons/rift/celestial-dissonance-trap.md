@@ -1,6 +1,5 @@
 ---
 title: Celestial Dissonance Trap
-image: /images/weapon-thumbnails/celestial-dissonance-trap.png
 skipToc: true
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Obelisk of Incineration Trap
-image: /images/weapon-thumbnails/obelisk-of-incineration-trap.png
 skipToc: true
 ---
 

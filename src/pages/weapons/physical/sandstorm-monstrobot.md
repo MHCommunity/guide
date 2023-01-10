@@ -1,6 +1,5 @@
 ---
 title: Sandstorm MonstroBot
-image: /images/weapon-thumbnails/sandstorm-monstrobot.png
 skipToc: true
 ---
 

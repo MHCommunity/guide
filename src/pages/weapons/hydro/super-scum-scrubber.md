@@ -1,6 +1,5 @@
 ---
 title: S.U.P.E.R. Scum Scrubber
-image: /images/weapon-thumbnails/s.u.p.e.r.-scum-scrubber.png
 skipToc: true
 ---
 

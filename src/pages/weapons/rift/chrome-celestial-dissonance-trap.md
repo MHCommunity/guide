@@ -1,6 +1,5 @@
 ---
 title: Chrome Celestial Dissonance Trap
-image: /images/weapon-thumbnails/chrome-celestial-dissonance-trap.png
 skipToc: true
 ---
 

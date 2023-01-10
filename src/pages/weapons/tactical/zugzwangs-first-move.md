@@ -1,12 +1,11 @@
 ---
 title: Zugzwang's First Move
-image: /images/weapon-thumbnails/zugzwang's-first-move.png
 skipToc: true
 ---
 
 {% weapon
  name="Zugzwang's First Move"
- src="/images/weapons/zugzwang's-first-move.png"
+ src="/images/weapons/zugzwangs-first-move.png"
  description="The chess pieces of Zugzwang's Last Move have been reborn with the help of a magic feather, becoming a powerful knight who will defend your cheese to the death. Using strategy gleaned from his origins as a chess set, and a stubbornness that can only come from being made of stone, he will fight off any rodent attacker in the name of his King or Queen."
 /%}
 

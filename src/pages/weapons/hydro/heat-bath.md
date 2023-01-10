@@ -1,6 +1,5 @@
 ---
 title: Heat Bath
-image: /images/weapon-thumbnails/heat-bath.png
 skipToc: true
 ---
 
