@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 export function normalizeIcon(icon) {
-    return icon.replace(/ /g, '').replace(/\//g, '-').toLowerCase();
+  return icon.replace(/ /g, '').replace(/\//g, '-').toLowerCase();
 }
 
 export function Stat({ title, value, icon }) {
@@ -28,12 +28,12 @@ export function WeaponStats({ powerType, power, powerBonus, luck, attraction = f
       {title && (
         <div className="overflow-hidden rounded-lg bg-white px-4 py-5 shadow sm:p-6">
           <dt className="truncate text-sm font-medium text-gray-500">Title to Eqiup</dt>
-            <dd className="mt-1 text-xl font-semibold tracking-tight text-gray-900 flex items-center">
-              <Image src={`/images/shields/${normalizeIcon(title)}.png`} alt="Title" width={32} height={32} />
-              <div className="ml-3">{title}</div>
-            </dd>
-          </div>
-        )}
+          <dd className="mt-1 text-xl font-semibold tracking-tight text-gray-900 flex items-center">
+            <Image src={`/images/shields/${normalizeIcon(title)}.png`} alt="Title" width={32} height={32} />
+            <div className="ml-3">{title}</div>
+          </dd>
+        </div>
+      )}
     </div>
   )
 }
