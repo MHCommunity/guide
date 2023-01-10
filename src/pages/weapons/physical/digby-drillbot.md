@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Digby DrillBot"
  src="/images/weapons/digby-drillbot.png"
- description="The scientists of Digby used their knowledge of tunnel digging technology to create the ultimate mouse adversary. Using its two massive high-speed drills, this titan can easily destroy any mouse put in its path.
-
-Catching a Steel Mouse with this trap will produce Scrap Metal!"
+ description="The scientists of Digby used their knowledge of tunnel digging technology to create the ultimate mouse adversary. Using its two massive high-speed drills, this titan can easily destroy any mouse put in its path. Catching a Steel Mouse with this trap will produce Scrap Metal!"
 /%}
 
 {% weapon-stats

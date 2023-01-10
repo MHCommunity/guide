@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Forgotten Pressure Plate Trap"
  src="/images/weapons/forgotten-pressure-plate-trap.png"
- description="This simple Forgotten trap is designed to blend in with the architecture found in the Acolyte Realm so as to avoid arising suspicion, and features a small, poisonous blowgun hidden within a simple stone column.
-
-Once a mouse steps on the pressure plate to collect the cheese, a volley of poisonous rune-tipped darts fire. Lethal or non-lethal poisons can be used depending on the will of the hunter."
+ description="This simple Forgotten trap is designed to blend in with the architecture found in the Acolyte Realm so as to avoid arising suspicion, and features a small, poisonous blowgun hidden within a simple stone column. Once a mouse steps on the pressure plate to collect the cheese, a volley of poisonous rune-tipped darts fire. Lethal or non-lethal poisons can be used depending on the will of the hunter."
 /%}
 
 {% weapon-stats

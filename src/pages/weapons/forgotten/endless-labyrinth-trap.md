@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Endless Labyrinth Trap"
  src="/images/weapons/endless-labyrinth-trap.png"
- description="Mice who try to steal cheese from this powerful trap are transported into a smaller, more twisted version of the Labyrinth. Only mice powerful or lucky enough manage to escape from this trap before it locks them within. The rest will live the remainder of their natural lives forgotten within this endless maze.
-
-Due to the nature of this trap, the King has expressedly forbidden hunters from nesting these traps into other Endless Labyrinth traps, as infinitely shrinking things to beyond the smallest known particle might have cataclysmic consequences on the natural order of the universe..."
+ description="Mice who try to steal cheese from this powerful trap are transported into a smaller, more twisted version of the Labyrinth. Only mice powerful or lucky enough manage to escape from this trap before it locks them within. The rest will live the remainder of their natural lives forgotten within this endless maze. Due to the nature of this trap, the King has expressedly forbidden hunters from nesting these traps into other Endless Labyrinth traps, as infinitely shrinking things to beyond the smallest known particle might have cataclysmic consequences on the natural order of the universe..."
 /%}
 
 {% weapon-stats

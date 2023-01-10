@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Chrome MonstroBot"
  src="/images/weapons/chrome-monstrobot.png"
- description="What do you get when you take the incredible ancient technology of the Sandstorm MonstroBot and couple it with the very latest modernizations, then dip the whole thing in a huge vat of molten chrome?
-
-You get this absolutely gorgeous monstrosity, the absolute pinnacle of physical damage traps. No mere mouse can withstand its pounding paws for long, but be sure not to deploy it lightly - you want to make sure it's pointed at the mice before you turn it on, not towards you!"
+ description="What do you get when you take the incredible ancient technology of the Sandstorm MonstroBot and couple it with the very latest modernizations, then dip the whole thing in a huge vat of molten chrome? You get this absolutely gorgeous monstrosity, the absolute pinnacle of physical damage traps. No mere mouse can withstand its pounding paws for long, but be sure not to deploy it lightly - you want to make sure it's pointed at the mice before you turn it on, not towards you!"
 /%}
 
 {% weapon-stats

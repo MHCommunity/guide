@@ -6,11 +6,7 @@ skipToc: true
 {% weapon
  name="Interdimensional Crossbow"
  src="/images/weapons/interdimensional-crossbow.png"
- description="These finely-tuned crossbows create an interdimensional network between all other Interdimensional Crossbow Traps in existence.
-
-In synchronization with each other, once one of the traps detects a mouse, each of the other traps opens a portal to the offending location so that they may aid by opening fire upon the same target at once!
-
-It makes you wonder why all traps aren't made this way!"
+ description="These finely-tuned crossbows create an interdimensional network between all other Interdimensional Crossbow Traps in existence. In synchronization with each other, once one of the traps detects a mouse, each of the other traps opens a portal to the offending location so that they may aid by opening fire upon the same target at once! It makes you wonder why all traps aren't made this way!"
 /%}
 
 {% weapon-stats

@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Steam Laser Mk. II (Broken!)"
  src="/images/weapons/steam-laser-mk.-ii-(broken!).png"
- description="Oh no! Just look what Icewing did to this perfectly good trap! Does she even know how long it took to build? The effort and time and gold involved? Does she even care?
-
-Well. You can show her! There's certainly enough parts left here to rebuild this trap, and if you can find an extra-powerful power source somewhere, you can create a trap she'll certainly fear!"
+ description="Oh no! Just look what Icewing did to this perfectly good trap! Does she even know how long it took to build? The effort and time and gold involved? Does she even care? Well. You can show her! There's certainly enough parts left here to rebuild this trap, and if you can find an extra-powerful power source somewhere, you can create a trap she'll certainly fear!"
 /%}
 
 {% weapon-stats

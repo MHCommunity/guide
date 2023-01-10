@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Crystal Crucible Trap"
  src="/images/weapons/crystal-crucible-trap.png"
- description="A perfectly arranged set of specifically sized and energized crystals. Once struck with a tuning fork, the resonating waves activate their energy causing a reaction between the crystals. Once fully awoken, the main grounding crystals hone and confine the smaller crystals into a powerful, circular orbit.
-
-The crystals hum together producing a low-toned sound, attracting mice in the general area, luring them to its center ring. Once a mouse gets close enough the crystals spin and speed up into a blur and release an awesome flash of light. Too blinding to even see what has happened to the now missing mouse..."
+ description="A perfectly arranged set of specifically sized and energized crystals. Once struck with a tuning fork, the resonating waves activate their energy causing a reaction between the crystals. Once fully awoken, the main grounding crystals hone and confine the smaller crystals into a powerful, circular orbit. The crystals hum together producing a low-toned sound, attracting mice in the general area, luring them to its center ring. Once a mouse gets close enough the crystals spin and speed up into a blur and release an awesome flash of light. Too blinding to even see what has happened to the now missing mouse..."
 /%}
 
 {% weapon-stats

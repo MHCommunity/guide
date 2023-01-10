@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Steam Laser Mk. I"
  src="/images/weapons/steam-laser-mk.-i.png"
- description="Like a fog machine mixed with a laser lightshow, the Steam Laser Mark I is both effective and awesome. Even mice not directly struck by the Steam Laser Mark I's beam stop in their tracks, engrossed in the incredible lightshow before them.
-
-This combination of hot and hydro works especially well on the Slushy Shoreline and in the Iceberg."
+ description="Like a fog machine mixed with a laser lightshow, the Steam Laser Mark I is both effective and awesome. Even mice not directly struck by the Steam Laser Mark I's beam stop in their tracks, engrossed in the incredible lightshow before them. This combination of hot and hydro works especially well on the Slushy Shoreline and in the Iceberg."
 /%}
 
 {% weapon-stats

@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Chrome Temporal Turbine"
  src="/images/weapons/chrome-temporal-turbine.png"
- description="Cast in chrome, this more expensive version of the Temporal Turbine has been tuned to aim directly at the sun! The chrome coating allows it to withstand the heat every time the portal is open and exposed to the impossibly hot flames.
-
-Mice triggering this trap get instantly cooked to a crisp! Youch!"
+ description="Cast in chrome, this more expensive version of the Temporal Turbine has been tuned to aim directly at the sun! The chrome coating allows it to withstand the heat every time the portal is open and exposed to the impossibly hot flames. Mice triggering this trap get instantly cooked to a crisp! Youch!"
 /%}
 
 {% weapon-stats

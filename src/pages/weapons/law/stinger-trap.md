@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="S.T.I.N.G.E.R. Trap"
  src="/images/weapons/s.t.i.n.g.e.r.-trap.png"
- description="The Surprise Transport Incarceration Nuisance Grabber Enhanced Retrofit takes the art of criminal capture to the next level. The increased power allows it to actively seek out suspects rather than simply waiting for them to turn up of their own volition. The bright lights make the fake gold and gems sparkle and glisten irresistibly which can fool even the more discerning criminals, making this model a far more thorough and efficient convict catcher.
-
-The slogan for this model is "Clean up the skies!" which is generally considered to be a bit ironic given the excessive extra pollution that it produces over its predecessor."
+ description="The Surprise Transport Incarceration Nuisance Grabber Enhanced Retrofit takes the art of criminal capture to the next level. The increased power allows it to actively seek out suspects rather than simply waiting for them to turn up of their own volition. The bright lights make the fake gold and gems sparkle and glisten irresistibly which can fool even the more discerning criminals, making this model a far more thorough and efficient convict catcher. The slogan for this model is 'Clean up the skies!' which is generally considered to be a bit ironic given the excessive extra pollution that it produces over its predecessor."
 /%}
 
 {% weapon-stats

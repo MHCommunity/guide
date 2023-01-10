@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Steam Laser Mk. II"
  src="/images/weapons/steam-laser-mk.-ii.png"
- description="With more heat, more laser, and more awesome than ever before, the Steam Laser Mk. II truly brings the fight to the Iceberg mice. State-of-the-art targeting chips have also been added, to ensure pin-point laser accuracy and split-second timing, which definitely helps against stronger and faster mice. Even Icewing herself fears and will attack this trap on sight!
-
-This combination of hot and hydro works especially well on the Slushy Shoreline and in the Iceberg."
+ description="With more heat, more laser, and more awesome than ever before, the Steam Laser Mk. II truly brings the fight to the Iceberg mice. State-of-the-art targeting chips have also been added, to ensure pin-point laser accuracy and split-second timing, which definitely helps against stronger and faster mice. Even Icewing herself fears and will attack this trap on sight! This combination of hot and hydro works especially well on the Slushy Shoreline and in the Iceberg."
 /%}
 
 {% weapon-stats

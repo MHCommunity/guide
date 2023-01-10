@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Steam Laser Mk. III"
  src="/images/weapons/steam-laser-mk.-iii.png"
- description="The ultimate in steam laser technology, the Steam Laser Mk. III is truly a marvel of engineering. Able to hyper-heat steam beyond normal (or safe) levels, this trap is truly the pinnacle of anti-Iceberg weaponry. Even Icewing herself fears and will attack this trap on sight!
-
-This combination of hot and hydro works especially well on the Slushy Shoreline and in the Iceberg."
+ description="The ultimate in steam laser technology, the Steam Laser Mk. III is truly a marvel of engineering. Able to hyper-heat steam beyond normal (or safe) levels, this trap is truly the pinnacle of anti-Iceberg weaponry. Even Icewing herself fears and will attack this trap on sight! This combination of hot and hydro works especially well on the Slushy Shoreline and in the Iceberg."
 /%}
 
 {% weapon-stats

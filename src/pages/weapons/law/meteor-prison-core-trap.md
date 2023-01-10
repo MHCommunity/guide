@@ -6,11 +6,7 @@ skipToc: true
 {% weapon
  name="Meteor Prison Core Trap"
  src="/images/weapons/meteor-prison-core-trap.png"
- description="A structure emulating the protective husk of the meteor that crashed into Fort Rox, except now it is being used to imprison mice instead of protect them!
-
-With a loud crack, the sphere quickly shatters and surrounds the unsuspecting cheese thief, locking them away within their own prison dimension.
-
-The warm glow seems so inviting until a mouse gets too close..."
+ description="A structure emulating the protective husk of the meteor that crashed into Fort Rox, except now it is being used to imprison mice instead of protect them! With a loud crack, the sphere quickly shatters and surrounds the unsuspecting cheese thief, locking them away within their own prison dimension. The warm glow seems so inviting until a mouse gets too close..."
 /%}
 
 {% weapon-stats

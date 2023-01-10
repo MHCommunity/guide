@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Chrome Sphynx Wrath"
  src="/images/weapons/chrome-sphynx-wrath.png"
- description="Coated in blinding chrome, this trap is a sight to behold! Light sparkles, shines, and reflects from the Sphynx's opulent wings scattering light throughout any Camp site.
-
-It's a small wonder the small, moving dots of reflected light don't distract the kitty from its job at hand!"
+ description="Coated in blinding chrome, this trap is a sight to behold! Light sparkles, shines, and reflects from the Sphynx's opulent wings scattering light throughout any Camp site. It's a small wonder the small, moving dots of reflected light don't distract the kitty from its job at hand!"
 /%}
 
 {% weapon-stats

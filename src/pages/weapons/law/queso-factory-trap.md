@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Queso Factory Trap"
  src="/images/weapons/queso-factory-trap.png"
- description="After a year of studying the SUPER|brie+ Factory from the limited time they were allowed access, some clever Trapsmiths have created a smaller, mouse-sized version that can retrofit into the pumps in the Queso River and increase their efficiency!
-
-While hunting in the Queso River, this trap connects to your queso pump and taps into the flowing queso, extracting it based on your current pump level. Once it has reached maximum capacity, it adds 500 bonus Bland Queso to your next pump! The higher level your pump, the fewer hunts it will take."
+ description="After a year of studying the SUPER|brie+ Factory from the limited time they were allowed access, some clever Trapsmiths have created a smaller, mouse-sized version that can retrofit into the pumps in the Queso River and increase their efficiency! While hunting in the Queso River, this trap connects to your queso pump and taps into the flowing queso, extracting it based on your current pump level. Once it has reached maximum capacity, it adds 500 bonus Bland Queso to your next pump! The higher level your pump, the fewer hunts it will take."
 /%}
 
 {% weapon-stats

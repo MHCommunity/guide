@@ -6,9 +6,7 @@ skipToc: true
 {% weapon
  name="Chrome Phantasmic Oasis Trap"
  src="/images/weapons/chrome-phantasmic-oasis-trap.png"
- description="Like a dragon protecting its massive hoard of treasure, the phantasm in this Chrome version of the Phantasmic Oasis Trap is obsessed with guarding its new-found wealth. The Chrome has blinded it with greed and its anger toward intruders knows no bounds. Even hunters fear placing this trap down as the phantasm will often snap its steely jaws at them, thinking the hunter is after the gold strewn around it.
-
-Hunters can at least consider themselves lucky: The true target of this trap are the mice, and the phantasm will stop at nothing when it comes to safeguarding its treasure from unworthy opponents"
+ description="Like a dragon protecting its massive hoard of treasure, the phantasm in this Chrome version of the Phantasmic Oasis Trap is obsessed with guarding its new-found wealth. The Chrome has blinded it with greed and its anger toward intruders knows no bounds. Even hunters fear placing this trap down as the phantasm will often snap its steely jaws at them, thinking the hunter is after the gold strewn around it. Hunters can at least consider themselves lucky: The true target of this trap are the mice, and the phantasm will stop at nothing when it comes to safeguarding its treasure from unworthy opponents"
 /%}
 
 {% weapon-stats

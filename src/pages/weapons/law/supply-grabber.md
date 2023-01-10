@@ -6,11 +6,7 @@ skipToc: true
 {% weapon
  name="Supply Grabber"
  src="/images/weapons/supply-grabber.png"
- description="A once simple, coal-powered industrial shipment crane that has been modified to be able to snag mice carrying Royal Supply Crates at high speeds.
-
-It fools mice with its slow and calculated movements until they come close, then it snaps into action and snatches them up!
-
-This trap is very effective while the Gnawnian Express is at the Supply Depot."
+ description="A once simple, coal-powered industrial shipment crane that has been modified to be able to snag mice carrying Royal Supply Crates at high speeds. It fools mice with its slow and calculated movements until they come close, then it snaps into action and snatches them up! This trap is very effective while the Gnawnian Express is at the Supply Depot."
 /%}
 
 {% weapon-stats
