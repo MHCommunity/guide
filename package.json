@@ -34,7 +34,7 @@
     "tailwindcss": "^3.2.4"
   },
   "devDependencies": {
-    "@trivago/prettier-plugin-sort-imports": "^3.4.0",
+    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
     "eslint": "8.19.0",
     "eslint-config-next": "13.1.1",
     "eslint-config-prettier": "^8.5.0",
