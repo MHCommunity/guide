@@ -29,20 +29,20 @@ const navigation = [
       { title: 'Count / Countess', href: '/guide/count-countess', image: '/images/shields/count-countess.png' },
     ],
   },
-  {
-    title: 'Weapons',
-    links: [
-      { title: 'Arcane', href: '/weapons/arcane', image: '/images/power-types/arcane.png' },
-      { title: 'Draconic', href: '/weapons/draconic', image: '/images/power-types/draconic.png' },
-      { title: 'Forgotten', href: '/weapons/forgotten', image: '/images/power-types/forgotten.png' },
-      { title: 'Hydro', href: '/weapons/hydro', image: '/images/power-types/hydro.png' },
-      { title: 'Law', href: '/weapons/law', image: '/images/power-types/law.png' },
-      { title: 'Physical', href: '/weapons/physical', image: '/images/power-types/physical.png' },
-      { title: 'Rift', href: '/weapons/rift', image: '/images/power-types/rift.png' },
-      { title: 'Shadow', href: '/weapons/shadow', image: '/images/power-types/shadow.png' },
-      { title: 'Tactical', href: '/weapons/tactical', image: '/images/power-types/tactical.png' },
-    ],
-  },
+  // {
+  //   title: 'Weapons',
+  //   links: [
+  //     { title: 'Arcane', href: '/weapons/arcane', image: '/images/power-types/arcane.png' },
+  //     { title: 'Draconic', href: '/weapons/draconic', image: '/images/power-types/draconic.png' },
+  //     { title: 'Forgotten', href: '/weapons/forgotten', image: '/images/power-types/forgotten.png' },
+  //     { title: 'Hydro', href: '/weapons/hydro', image: '/images/power-types/hydro.png' },
+  //     { title: 'Law', href: '/weapons/law', image: '/images/power-types/law.png' },
+  //     { title: 'Physical', href: '/weapons/physical', image: '/images/power-types/physical.png' },
+  //     { title: 'Rift', href: '/weapons/rift', image: '/images/power-types/rift.png' },
+  //     { title: 'Shadow', href: '/weapons/shadow', image: '/images/power-types/shadow.png' },
+  //     { title: 'Tactical', href: '/weapons/tactical', image: '/images/power-types/tactical.png' },
+  //   ],
+  // },
 ]
 
 function Header({ navigation }) {
