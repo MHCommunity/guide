@@ -26,8 +26,8 @@ The Mysteriously unYielding Null-Onyx Rampart of Cascading Amperes can be bought
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Mysteriously unYielding Null-Onyx Rampart of Cascading Amperes?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

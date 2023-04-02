@@ -26,8 +26,8 @@ The Chrome Temporal Turbine can be bought from the Trapsmith in the *location* f
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Chrome Temporal Turbine?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

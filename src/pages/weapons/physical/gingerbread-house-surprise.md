@@ -27,8 +27,8 @@ The Gingerbread House Surprise can be bought from the Trapsmith in the *location
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Gingerbread House Surprise?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

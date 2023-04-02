@@ -26,8 +26,8 @@ The The Forgotten Art of Dance can be bought from the Trapsmith in the *location
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get The Forgotten Art of Dance?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

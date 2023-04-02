@@ -26,8 +26,8 @@ The Steam Laser Mk. II (Broken!) can be bought from the Trapsmith in the *locati
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Steam Laser Mk. II (Broken!)?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

@@ -25,8 +25,8 @@ The Steam Laser Mk. I can be bought from the Trapsmith in the *location* for ...
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Steam Laser Mk. I?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

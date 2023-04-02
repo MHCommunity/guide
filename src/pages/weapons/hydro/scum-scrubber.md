@@ -26,8 +26,8 @@ The Scum Scrubber can be bought from the Trapsmith in the *location* for ...
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Scum Scrubber?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

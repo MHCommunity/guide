@@ -27,8 +27,8 @@ The Dimensional Chest Trap can be bought from the Trapsmith in the *location* fo
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Dimensional Chest Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

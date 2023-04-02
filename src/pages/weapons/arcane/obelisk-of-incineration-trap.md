@@ -26,8 +26,8 @@ The Obelisk of Incineration Trap can be bought from the Trapsmith in the *locati
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Obelisk of Incineration Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

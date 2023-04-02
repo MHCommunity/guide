@@ -27,8 +27,8 @@ The Storm Wrought Ballista Trap can be bought from the Trapsmith in the *locatio
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Storm Wrought Ballista Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

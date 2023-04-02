@@ -27,8 +27,8 @@ The Reaper's Perch can be bought from the Trapsmith in the *location* for ...
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Reaper's Perch?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

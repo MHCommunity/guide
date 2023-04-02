@@ -27,8 +27,8 @@ The Mouse Mary O'Nette can be bought from the Trapsmith in the *location* for ..
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Mouse Mary O'Nette?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

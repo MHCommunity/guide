@@ -27,8 +27,8 @@ The Celestial Dissonance Trap can be bought from the Trapsmith in the *location*
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Celestial Dissonance Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

@@ -25,8 +25,8 @@ The 500 Pound Spiked Crusher can be bought from the Trapsmith in the *location* 
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get 500 Pound Spiked Crusher?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

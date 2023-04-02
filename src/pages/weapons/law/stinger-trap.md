@@ -27,11 +27,11 @@ The S.T.I.N.G.E.R. Trap can be bought from the Trapsmith in the *location* for .
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get S.T.I.N.G.E.R. Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**
 
 
 ## S.T.I.N.G.E.R. Trap

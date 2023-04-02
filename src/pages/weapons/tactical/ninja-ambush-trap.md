@@ -26,8 +26,8 @@ The Ninja Ambush Trap can be bought from the Trapsmith in the *location* for ...
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Ninja Ambush Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

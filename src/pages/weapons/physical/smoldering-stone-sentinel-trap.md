@@ -27,8 +27,8 @@ The Smoldering Stone Sentinel Trap can be bought from the Trapsmith in the *loca
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Smoldering Stone Sentinel Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

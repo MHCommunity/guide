@@ -26,8 +26,8 @@ The Mouse Hot Tub can be bought from the Trapsmith in the *location* for ...
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Mouse Hot Tub?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

@@ -27,8 +27,8 @@ The Chrome Thought Obliterator Trap can be bought from the Trapsmith in the *loc
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Chrome Thought Obliterator Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

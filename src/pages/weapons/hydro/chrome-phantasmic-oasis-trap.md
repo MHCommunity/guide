@@ -27,8 +27,8 @@ The Chrome Phantasmic Oasis Trap can be bought from the Trapsmith in the *locati
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Chrome Phantasmic Oasis Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

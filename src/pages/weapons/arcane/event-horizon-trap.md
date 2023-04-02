@@ -26,8 +26,8 @@ The Event Horizon Trap can be bought from the Trapsmith in the *location* for ..
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Event Horizon Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

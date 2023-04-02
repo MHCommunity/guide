@@ -26,8 +26,8 @@ The Arcane Capturing Rod Of Never Yielding Mystery can be bought from the Trapsm
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Arcane Capturing Rod Of Never Yielding Mystery?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

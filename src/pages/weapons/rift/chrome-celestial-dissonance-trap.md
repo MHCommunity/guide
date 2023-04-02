@@ -27,8 +27,8 @@ The Chrome Celestial Dissonance Trap can be bought from the Trapsmith in the *lo
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Chrome Celestial Dissonance Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

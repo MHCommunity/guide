@@ -27,8 +27,8 @@ The Chrome School of Sharks Trap can be bought from the Trapsmith in the *locati
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Chrome School of Sharks Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

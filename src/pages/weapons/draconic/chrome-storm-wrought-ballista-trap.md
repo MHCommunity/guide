@@ -27,8 +27,8 @@ The Chrome Storm Wrought Ballista Trap can be bought from the Trapsmith in the *
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Chrome Storm Wrought Ballista Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

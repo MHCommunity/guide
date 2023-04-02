@@ -27,8 +27,8 @@ The Tome of the Mind's Eye Trap can be bought from the Trapsmith in the *locatio
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Tome of the Mind's Eye Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

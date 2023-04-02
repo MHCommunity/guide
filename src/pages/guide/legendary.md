@@ -37,23 +37,23 @@ Buy some Gouda Cheese in Cape Clawed Cheese Shoppe. It attracts more mice every 
 
 A Tactical weapon is required to catch most mice in Nerg Plains. Nerg Plains is the easiest tribe and offers a good mixture of gold and points. Loot 30 Savoury Vegetables using Ambush Trap, Aqua Base and Gouda Cheese in Nerg Plains.
 
-King's Credit| You can buy some Crates of Savoury Vegetables in King’s Cart.
+**King's Credit** You can buy some Crates of Savoury Vegetables in King’s Cart.
 
 When you have 30 Savoury Vegetables, craft 15 Gumbo Cheese. The 20-piece recipe is not worth its cost. Loot 1 Thorned Vine from Grandfather Mouse with Gumbo Cheese in Cape Clawed. It’s not a guaranteed attraction.
 
 A Physical weapon is required to catch most mice in Derr Dunes. Derr Dunes is by far the most difficult tribe but offers excellent gold in return. Be mentally prepared for pillages. Loot Delicious Stone using Digby DrillBot, Aqua Base and Gouda Cheese in Derr Dunes.
 
-Digby Drillbot| You can buy Digby Drillbot for 256,000 gold at Town of Digby. How to get to Town of Digby - You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
+**Digby Drillbot** You can buy Digby Drillbot for 256,000 gold at Town of Digby. How to get to Town of Digby - You should have looted some Living Shard from Mousevina von Vermin in Mousoleum. Craft 3 Limelight Cheese. You can find Mutated Mole in Laboratory. Mutated Mole Mouse drops Key to the Town of Digby.
 
 King's Credit| You can buy some Crates of Delicious Stones in King’s Cart.
 
 When you have met the target Delicious Stones, craft Crunchy Cheese using the 15-piece recipe. The 20-piece recipe is not worth its cost. Catch Aged Mouse with Crunchy Cheese in Cape Clawed until you have at least 1 Rhino Horn and 24 Stale SUPERBrie+. It’s not a guaranteed attraction.
 
-Stale SUPERBrie+| You can alternatively buy some Moon Cheese to stale it.
+**Stale SUPERBrie+** You can alternatively buy some Moon Cheese to stale it.
 
 A Hydro weapon is required to catch most mice in Elub Shore. Elub Shore has moderate difficulty among three tribes and offers excellent points. Buy Net Cannon from S.S. Huntington IV Trapsmith. Loot Seashell using Net Cannon, Aqua Base and Gouda Cheese in Elub Shore.
 
-King's Credit| You can buy some Crates of Seashells in King’s Cart.
+**King's Credit** You can buy some Crates of Seashells in King’s Cart.
 
 When you have 30 Seashells, craft 15 Shell Cheese. The 20-piece recipe is not worth its cost.
 Loot 1 Ancient Spear from Elder Mouse with Shell Cheese in Cape Clawed. It’s not a guaranteed attraction.
@@ -68,7 +68,7 @@ Loot 1 Ancient Spear from Elder Mouse with Shell Cheese in Cape Clawed. It’s n
 
 Farm gold in Nerg Plains with Gouda Cheese. Craft Gumbo Cheese when possible and use Gumbo Cheese in Nerg Plains to loot Ancient Ripped Blueprint Piece from Nerg Chieftain Mouse and obtain Yellow Pepper Seed.
 
-Once you have at least 550,000 gold, smash Mutated Venus Mouse Trap into Venus Mouse Trap Husk.Buy Thorned Venus Mouse Trap from the Trapsmith with 550,000 gold, 1 Thorned Vine and 1 Venus Mouse Trap Husk. Don’t equip it. Then upgrade into the Horrific Venus Mouse Trap with 20 Radioactive Sludge.
+Once you have at least 550,000 gold, smash Mutated Venus Mouse Trap into Venus Mouse Trap Husk. Buy Thorned Venus Mouse Trap from the Trapsmith with 550,000 gold, 1 Thorned Vine and 1 Venus Mouse Trap Husk. Don’t equip it. Then upgrade into the Horrific Venus Mouse Trap with 20 Radioactive Sludge.
 
 Use the new Horrific Venus Mouse Trap in Nerg Plains to farm gold and Yellow Pepper Seeds.
 

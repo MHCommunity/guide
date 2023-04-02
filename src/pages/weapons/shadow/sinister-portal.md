@@ -26,8 +26,8 @@ The Sinister Portal can be bought from the Trapsmith in the *location* for ...
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Sinister Portal?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

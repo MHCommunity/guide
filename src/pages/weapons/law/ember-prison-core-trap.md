@@ -27,8 +27,8 @@ The Ember Prison Core Trap can be bought from the Trapsmith in the *location* fo
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Ember Prison Core Trap?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

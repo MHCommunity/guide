@@ -27,8 +27,8 @@ The Clockapult of Winter Past can be bought from the Trapsmith in the *location*
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Clockapult of Winter Past?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**

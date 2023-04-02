@@ -27,8 +27,8 @@ The Ancient Spear Gun can be bought from the Trapsmith in the *location* for ...
 
 ## Info and Trivia
 
-Something ...
+**Coming Soon**
 
 ## Should you get Ancient Spear Gun?
 
-Yes, No, alternatives, etc...
+**Also Coming Soon**
