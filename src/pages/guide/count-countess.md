@@ -98,6 +98,12 @@ Along with some of the following items
 
 ## Queso Geyser
 
+{% location
+ name="Queso Geyser"
+ src="/images/locations/queso-geyser.png"
+ description="A highly active geyser home to powerful Draconic mice. The extreme heat fluctuations and stages of the geysers natural eruption cycle also affect the activity of the native mice population."
+/%}
+
 This is the second part of the Queso region.
 
 You are recommended to use BEST and OESB here. You can earn some SUPERBrie+ from sniping in every stage here, check out discord for more info. There are 3 stages in the Queso Geyser
